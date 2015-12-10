@@ -1,6 +1,8 @@
 # UX-DD3
 Data Science Visualization Product
 
+Company : Bigstem Inc www.bigstem-analytics.com ( We are Data Analytics Startup )
+
 Here we provide the details on the open source product UX-DD3 . The idea is to share our efforts for anyone to download and start using it.
 
 In order to make  any chart, for instance , Stackable Chart, or Visualization Inferences, for example, SunBurst Chart, today one has to explore D3 library cut and paste code and start debugging it. Needless to say, this enormously increase dashboard development time. We claim that using our product is so convenient compared to D3 JS and can be used out of the box. Furthermore, D3 JS had some limitations for which we had to look into NVD JS. Essentially, our product is a wrap of D3 JS and NVD JS however, our key innovation is in simplying usage and the construct to an extent that designing a complex dashboard take less time. In addition, the reason for not including High Charts is that D3 and NVD have most of the construct needed to design a proper visualization. 
