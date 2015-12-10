@@ -1,0 +1,459 @@
+/* Drop Down Css..*/
+
+.pick_span{
+	cursor:pointer;
+}
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+        
+.circleOption:hover, .segmentSelected{
+    cursor: pointer;
+}
+/*
+#optionSelected, #segmentSelected{
+background-color:rgba(66, 123, 187, 0.8);
+}
+*/
+/* /Drop Down Css..*/
+
+.center{
+text-align:center;
+valign: middle;
+}
+.left{
+text-align:left;
+valign: middle;
+font-weight: bold;
+}
+.right{
+text-align:right;
+valign: middle;
+}
+
+.panel-head{
+padding:10px 3px;
+}
+.top_buffer{
+margin-top: 5px;
+}
+.select{
+height:30px;
+font-size:12px;
+}
+.t_select{
+	/*height:30px;*/
+	font-size:12px;
+}
+.btn-tabs a:hover{
+cursor: pointer;
+}
+.hidden{
+display:none;
+}
+.hed{
+	font-size:12px;
+	font-weight:bold;
+}
+
+.donut_front {
+	display: inline-block;
+	float: center;
+	padding-left: 25px;
+}
+.textboxfront {
+	display: inline-block;
+	float: left;
+	padding-right: 40px;
+	margin-top: 10px;
+}
+#sidebar{
+color: #fff;
+padding-top:1px;
+padding-left:1px;
+}
+.insight{
+	background-color:#fff;
+	border-radius:6px;
+	line-height:25px;
+	box-shadow: 0 1px 4px rgba(0,0,0,.065);
+}
+.insight>li{
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
+ul.insight>li.side.active{
+	background-color: #3E9DEF;
+}
+ul.insight>li.side:hover{
+	background-color: #3E9DEF;		
+}
+.nav>li>a:focus{
+background-color:#3E9DEF;			/*rgb(75, 173, 128);			/*#B63B3B;*/
+}
+ul.insight>li.side.active>a.ivr_menu{
+	color:#fff;
+}
+.insight>li>a{
+	display:block;
+	padding: 8px 14px;
+	border: 1px solid #e5e5e5;
+}
+
+ul.nav-tabs>li.inside-tabs.active>a{
+background-color:	#3E9DEF;		
+color: #fff;
+}
+.nav-tabs>li>a:focus{
+background-color:#3E9DEF;		/*linear-gradient(#EDBA80, steelblue);	/*#EDBA80;*/
+color: #fff;
+}
+.field,#selection_data, .Start_Date,.End_Date, #select_circle, #select_region, #circle_id, #select_segment{
+	background-color:rgba(66, 123, 187, 0.18);
+}
+/*
+#sidebar ul>li>a{
+color:#fff;
+
+}*/
+ .node circle {
+	fill: #fff;
+	stroke: steelblue;
+	stroke-width: 3px;
+}
+.node text {
+	font: 10px sans-serif;
+}
+.link {
+	fill: none;
+	stroke: #ccc;
+	stroke-width: 2px;
+}
+#clicktoexpandALL {
+	float: right;
+}
+div.tree_container {
+	height: 500px;
+	overflow: hidden;
+}
+div.tree_container:hover{
+	overflow: auto;
+}
+path {
+	stroke: #fff;
+	fill-rule: even;
+}
+text {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+}
+.overlay {
+            background-color: rgba(0, 0, 0, 0.8);
+            background-image: url("icon-spin icon-refresh");
+            z-index: 999;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-repeat: no-repeat;
+            background-position: center;
+}
+
+.node_name{
+    background: green;
+    color: white;
+    font-weight: 800;
+    opacity: 0;
+    min-height: 20px;
+}
+
+#circular3dG{
+position:absolute;
+top:162px;
+left:614px;
+width:128px;
+height:128px;
+z-index: 10000;
+
+}
+
+.circular3dG{
+position:absolute;
+background-color:#EB4411;
+width:36px;
+height:36px;
+-moz-border-radius:38px;
+-moz-animation-name:bounce_circular3dG;
+-moz-animation-duration:1.04s;
+-moz-animation-iteration-count:infinite;
+-moz-animation-direction:linear;
+-webkit-border-radius:38px;
+-webkit-animation-name:bounce_circular3dG;
+-webkit-animation-duration:1.04s;
+-webkit-animation-iteration-count:infinite;
+-webkit-animation-direction:linear;
+-ms-border-radius:38px;
+-ms-animation-name:bounce_circular3dG;
+-ms-animation-duration:1.04s;
+-ms-animation-iteration-count:infinite;
+-ms-animation-direction:linear;
+-o-border-radius:38px;
+-o-animation-name:bounce_circular3dG;
+-o-animation-duration:1.04s;
+-o-animation-iteration-count:infinite;
+-o-animation-direction:linear;
+border-radius:38px;
+animation-name:bounce_circular3dG;
+animation-duration:1.04s;
+animation-iteration-count:infinite;
+animation-direction:linear;
+}
+
+#circular3d_1G{
+left:52px;
+top:8px;
+-moz-animation-delay:0.39s;
+-webkit-animation-delay:0.39s;
+-ms-animation-delay:0.39s;
+-o-animation-delay:0.39s;
+animation-delay:0.39s;
+}
+
+#circular3d_2G{
+left:78px;
+top:30px;
+-moz-animation-delay:0.52s;
+-webkit-animation-delay:0.52s;
+-ms-animation-delay:0.52s;
+-o-animation-delay:0.52s;
+animation-delay:0.52s;
+}
+
+#circular3d_3G{
+left:94px;
+top:58px;
+-moz-animation-delay:0.65s;
+-webkit-animation-delay:0.65s;
+-ms-animation-delay:0.65s;
+-o-animation-delay:0.65s;
+animation-delay:0.65s;
+}
+
+#circular3d_4G{
+left:88px;
+top:86px;
+-moz-animation-delay:0.78s;
+-webkit-animation-delay:0.78s;
+-ms-animation-delay:0.78s;
+-o-animation-delay:0.78s;
+animation-delay:0.78s;
+}
+
+#circular3d_5G{
+left:54px;
+top:94px;
+-moz-animation-delay:0.9099999999999999s;
+-webkit-animation-delay:0.9099999999999999s;
+-ms-animation-delay:0.9099999999999999s;
+-o-animation-delay:0.9099999999999999s;
+animation-delay:0.9099999999999999s;
+}
+
+#circular3d_6G{
+left:10px;
+top:62px;
+-moz-animation-delay:1.04s;
+-webkit-animation-delay:1.04s;
+-ms-animation-delay:1.04s;
+-o-animation-delay:1.04s;
+animation-delay:1.04s;
+}
+
+#circular3d_7G{
+left:0px;
+top:18px;
+-moz-animation-delay:1.1700000000000002s;
+-webkit-animation-delay:1.1700000000000002s;
+-ms-animation-delay:1.1700000000000002s;
+-o-animation-delay:1.1700000000000002s;
+animation-delay:1.1700000000000002s;
+}
+
+#circular3d_8G{
+left:22px;
+top:0px;
+-moz-animation-delay:1.3s;
+-webkit-animation-delay:1.3s;
+-ms-animation-delay:1.3s;
+-o-animation-delay:1.3s;
+animation-delay:1.3s;
+}
+
+@-moz-keyframes bounce_circular3dG{
+0%{
+-moz-transform:scale(1)}
+
+100%{
+-moz-transform:scale(.3)}
+
+}
+
+@-webkit-keyframes bounce_circular3dG{
+0%{
+-webkit-transform:scale(1)}
+
+100%{
+-webkit-transform:scale(.3)}
+
+}
+
+@-ms-keyframes bounce_circular3dG{
+0%{
+-ms-transform:scale(1)}
+
+100%{
+-ms-transform:scale(.3)}
+
+}
+
+@-o-keyframes bounce_circular3dG{
+0%{
+-o-transform:scale(1)}
+
+100%{
+-o-transform:scale(.3)}
+
+}
+
+@keyframes bounce_circular3dG{
+0%{
+transform:scale(1)}
+
+100%{
+transform:scale(.3)}
+
+}
+
+.donutLabel{
+    line-height: 15px;
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.row_buffer{
+    margin-top: 10px;
+}
+
+#overall_line, #overall_histogram{
+	font-size: 13px;
+}
+/*
+#overall_line{
+overflow-x: scroll;
+}*/
+
+
+/* for Line Chart & Histogram */
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  fill:none;
+  stroke:#000;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke-width: 1.5px;
+}
+
+g.brush rect.extent {
+    fill-opacity:0.2;
+}
+
+.d3-tip {
+  cursor:pointer;
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.7);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+.overall_a, .region_a, .circle_a, .segment_a{
+	background-color: rgba(218, 170, 18, 0.1);
+	/*background-image: url("../img/grid.png");*/
+}
+.overall_b, .region_b, .circle_b, .segment_b{
+	background-color: rgba(93, 203, 56, 0.1);
+}

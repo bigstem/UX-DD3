@@ -1,0 +1,12 @@
+[{
+	"label": "Sample A",
+	"values": {
+		"Q1": 120,
+		"Q2": 150,
+		"Q3": 200,
+		"whisker_low": 115,
+		"whisker_high": 210,
+		"outliers": [50, 100, 225]
+	}
+	
+}]

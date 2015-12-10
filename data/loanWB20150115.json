@@ -1,0 +1,1840 @@
+[{
+	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=6425 unique_subs=4587 total_fraction=100.00% calls_transfered=0 calls_terminated=0 calls_passed=6425 BEN=89.09% HIN=8.89% ENG=2.02%",
+	"children": [{
+		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=6425 unique_subs=4587 total_fraction=100.00% calls_transfered=104 calls_terminated=544 calls_passed=5777 BEN=89.09% HIN=8.89% ENG=2.02%",
+		"children": [{
+			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=15.21%, hits=977 unique_subs=770 total_fraction=15.21% calls_transfered=12 calls_terminated=511 calls_passed=454 BEN=84.54% HIN=13.00% ENG=2.46%",
+			"children": [{
+				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=43.19%, hits=422 unique_subs=328 total_fraction=6.57% calls_transfered=14 calls_terminated=85 calls_passed=323 BEN=90.52% HIN=8.53% ENG=0.95%",
+				"children": [{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=6.40%, hits=27 unique_subs=25 total_fraction=0.42% calls_transfered=0 calls_terminated=12 calls_passed=15 BEN=81.48% HIN=18.52%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=44.44%, hits=12 unique_subs=10 total_fraction=0.19% calls_transfered=0 calls_terminated=2 calls_passed=10 BEN=66.67% HIN=33.33%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=25.00%, hits=3 unique_subs=2 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=66.67%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+									"name": "190100"
+								},
+								{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+											"name": "190200"
+										}],
+										"name": "190000"
+									}],
+									"name": "190200"
+								}],
+								"name": "190000"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+										"name": "190100"
+									}],
+									"name": "190000"
+								}],
+								"name": "5200"
+							}],
+							"name": "190300"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=8.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+								"name": "190000"
+							}],
+							"name": "190500"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=4 unique_subs=4 total_fraction=0.06% calls_transfered=4 calls_terminated=0 calls_passed=0 BEN=75.00% HIN=25.00%",
+							"name": "190100"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=16.67%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=2 calls_passed=0 BEN=50.00% HIN=50.00%",
+							"name": "190200"
+						}],
+						"name": "190000"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=11.11%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=1 calls_passed=2 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=66.67%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=2 calls_passed=0 BEN=100.00%",
+									"name": "190000"
+								}],
+								"name": "190300"
+							}],
+							"name": "190000"
+						}],
+						"name": "5200"
+					}],
+					"name": "190300"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=7.11%, hits=30 unique_subs=22 total_fraction=0.47% calls_transfered=0 calls_terminated=20 calls_passed=10 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=26.67%, hits=8 unique_subs=7 total_fraction=0.12% calls_transfered=0 calls_terminated=1 calls_passed=7 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=12.50%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190400"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=12.50%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+											"name": "190100"
+										}],
+										"name": "190000"
+									}],
+									"name": "190200"
+								}],
+								"name": "190000"
+							}],
+							"name": "5200"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=62.50%, hits=5 unique_subs=5 total_fraction=0.08% calls_transfered=5 calls_terminated=0 calls_passed=0 BEN=100.00%",
+							"name": "190100"
+						}],
+						"name": "190000"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=6.67%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+											"name": "190000"
+										}],
+										"name": "190500"
+									}],
+									"name": "190000"
+								}],
+								"name": "190300"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+								"name": "190100"
+							}],
+							"name": "190000"
+						}],
+						"name": "5200"
+					}],
+					"name": "190400"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=3.08%, hits=13 unique_subs=13 total_fraction=0.20% calls_transfered=1 calls_terminated=10 calls_passed=2 BEN=84.62% HIN=7.69% ENG=7.69%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=15.38%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=1 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+									"name": "190400"
+								}],
+								"name": "190000"
+							}],
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "190500"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=9.00%, hits=38 unique_subs=31 total_fraction=0.59% calls_transfered=0 calls_terminated=0 calls_passed=38 BEN=81.58% HIN=18.42%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=38 unique_subs=31 total_fraction=0.59% calls_transfered=0 calls_terminated=0 calls_passed=38 BEN=81.58% HIN=18.42%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=60.53%, hits=23 unique_subs=17 total_fraction=0.36% calls_transfered=0 calls_terminated=5 calls_passed=18 BEN=73.91% HIN=26.09%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=78.26%, hits=18 unique_subs=13 total_fraction=0.28% calls_transfered=0 calls_terminated=4 calls_passed=14 BEN=66.67% HIN=33.33%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=61.11%, hits=11 unique_subs=8 total_fraction=0.17% calls_transfered=0 calls_terminated=0 calls_passed=11 BEN=72.73% HIN=27.27%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=11 unique_subs=8 total_fraction=0.17% calls_transfered=0 calls_terminated=0 calls_passed=11 BEN=72.73% HIN=27.27%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=11 unique_subs=8 total_fraction=0.17% calls_transfered=0 calls_terminated=1 calls_passed=10 BEN=72.73% HIN=27.27%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=90.91%, hits=10 unique_subs=8 total_fraction=0.16% calls_transfered=0 calls_terminated=0 calls_passed=10 BEN=70.00% HIN=30.00%",
+												"children": [{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=80.00%, hits=8 unique_subs=6 total_fraction=0.12% calls_transfered=0 calls_terminated=0 calls_passed=8 BEN=62.50% HIN=37.50%",
+													"children": [{
+														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=8 unique_subs=6 total_fraction=0.12% calls_transfered=0 calls_terminated=1 calls_passed=7 BEN=62.50% HIN=37.50%",
+														"children": [{
+															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=87.50%, hits=7 unique_subs=6 total_fraction=0.11% calls_transfered=0 calls_terminated=0 calls_passed=7 BEN=71.43% HIN=28.57%",
+															"children": [{
+																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=7 unique_subs=6 total_fraction=0.11% calls_transfered=0 calls_terminated=1 calls_passed=6 BEN=71.43% HIN=28.57%",
+																"children": [{
+																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=71.43%, hits=5 unique_subs=5 total_fraction=0.08% calls_transfered=0 calls_terminated=0 calls_passed=5 BEN=80.00% HIN=20.00%",
+																	"children": [{
+																		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=5 unique_subs=5 total_fraction=0.08% calls_transfered=0 calls_terminated=0 calls_passed=5 BEN=80.00% HIN=20.00%",
+																		"children": [{
+																			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=5 unique_subs=5 total_fraction=0.08% calls_transfered=0 calls_terminated=1 calls_passed=4 BEN=80.00% HIN=20.00%",
+																			"children": [{
+																				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=80.00%, hits=4 unique_subs=4 total_fraction=0.06% calls_transfered=0 calls_terminated=1 calls_passed=3 BEN=75.00% HIN=25.00%",
+																				"children": [{
+																					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=75.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+																					"children": [{
+																						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+																						"children": [{
+																							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=1 calls_passed=2 BEN=100.00%",
+																							"children": [{
+																								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=66.67%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+																								"children": [{
+																									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+																									"children": [{
+																										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+																										"children": [{
+																											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+																											"children": [{
+																												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+																												"children": [{
+																													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+																													"children": [{
+																														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+																														"children": [{
+																															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+																															"children": [{
+																																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=1 calls_passed=1 BEN=100.00%",
+																																"children": [{
+																																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																	"children": [{
+																																		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																		"children": [{
+																																			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																			"children": [{
+																																				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																				"children": [{
+																																					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																					"children": [{
+																																						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																						"children": [{
+																																							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																							"children": [{
+																																								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																								"children": [{
+																																									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																									"children": [{
+																																										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																										"children": [{
+																																											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																											"children": [{
+																																												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																												"children": [{
+																																													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																													"children": [{
+																																														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																														"children": [{
+																																															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																															"children": [{
+																																																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																"children": [{
+																																																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																	"children": [{
+																																																		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																		"children": [{
+																																																			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																			"children": [{
+																																																				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																				"children": [{
+																																																					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																					"children": [{
+																																																						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																						"children": [{
+																																																							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																							"children": [{
+																																																								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																								"children": [{
+																																																									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																									"children": [{
+																																																										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																										"children": [{
+																																																											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																											"children": [{
+																																																												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																												"children": [{
+																																																													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																													"children": [{
+																																																														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																														"children": [{
+																																																															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																															"children": [{
+																																																																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																"children": [{
+																																																																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																	"children": [{
+																																																																		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																		"children": [{
+																																																																			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																			"children": [{
+																																																																				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																				"children": [{
+																																																																					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																					"children": [{
+																																																																						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																						"children": [{
+																																																																							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																							"children": [{
+																																																																								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																								"children": [{
+																																																																									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																									"children": [{
+																																																																										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																										"children": [{
+																																																																											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																											"children": [{
+																																																																												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																												"children": [{
+																																																																													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																													"children": [{
+																																																																														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																														"children": [{
+																																																																															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																															"children": [{
+																																																																																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																"children": [{
+																																																																																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																	"children": [{
+																																																																																		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																		"children": [{
+																																																																																			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																			"children": [{
+																																																																																				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																				"children": [{
+																																																																																					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																					"children": [{
+																																																																																						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																						"children": [{
+																																																																																							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																							"children": [{
+																																																																																								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																								"children": [{
+																																																																																									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																									"children": [{
+																																																																																										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																										"children": [{
+																																																																																											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																											"children": [{
+																																																																																												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																												"children": [{
+																																																																																													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																													"children": [{
+																																																																																														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																														"children": [{
+																																																																																															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																															"children": [{
+																																																																																																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																"children": [{
+																																																																																																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																	"children": [{
+																																																																																																		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																		"children": [{
+																																																																																																			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																			"children": [{
+																																																																																																				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																				"children": [{
+																																																																																																					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																					"children": [{
+																																																																																																						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																						"children": [{
+																																																																																																							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																							"children": [{
+																																																																																																								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																								"children": [{
+																																																																																																									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																									"children": [{
+																																																																																																										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																										"children": [{
+																																																																																																											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																																																																																																											"children": [{
+																																																																																																												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+																																																																																																												"name": "190000"
+																																																																																																											}],
+																																																																																																											"name": "190300"
+																																																																																																										}],
+																																																																																																										"name": "190000"
+																																																																																																									}],
+																																																																																																									"name": "5200"
+																																																																																																								}],
+																																																																																																								"name": "190000"
+																																																																																																							}],
+																																																																																																							"name": "190300"
+																																																																																																						}],
+																																																																																																						"name": "190000"
+																																																																																																					}],
+																																																																																																					"name": "5200"
+																																																																																																				}],
+																																																																																																				"name": "190000"
+																																																																																																			}],
+																																																																																																			"name": "190300"
+																																																																																																		}],
+																																																																																																		"name": "190000"
+																																																																																																	}],
+																																																																																																	"name": "5200"
+																																																																																																}],
+																																																																																																"name": "190000"
+																																																																																															}],
+																																																																																															"name": "190300"
+																																																																																														}],
+																																																																																														"name": "190000"
+																																																																																													}],
+																																																																																													"name": "5200"
+																																																																																												}],
+																																																																																												"name": "190000"
+																																																																																											}],
+																																																																																											"name": "190300"
+																																																																																										}],
+																																																																																										"name": "190000"
+																																																																																									}],
+																																																																																									"name": "5200"
+																																																																																								}],
+																																																																																								"name": "190000"
+																																																																																							}],
+																																																																																							"name": "190300"
+																																																																																						}],
+																																																																																						"name": "190000"
+																																																																																					}],
+																																																																																					"name": "5200"
+																																																																																				}],
+																																																																																				"name": "190000"
+																																																																																			}],
+																																																																																			"name": "190300"
+																																																																																		}],
+																																																																																		"name": "190000"
+																																																																																	}],
+																																																																																	"name": "5200"
+																																																																																}],
+																																																																																"name": "190000"
+																																																																															}],
+																																																																															"name": "190300"
+																																																																														}],
+																																																																														"name": "190000"
+																																																																													}],
+																																																																													"name": "5200"
+																																																																												}],
+																																																																												"name": "190000"
+																																																																											}],
+																																																																											"name": "190300"
+																																																																										}],
+																																																																										"name": "190000"
+																																																																									}],
+																																																																									"name": "5200"
+																																																																								}],
+																																																																								"name": "190000"
+																																																																							}],
+																																																																							"name": "190300"
+																																																																						}],
+																																																																						"name": "190000"
+																																																																					}],
+																																																																					"name": "5200"
+																																																																				}],
+																																																																				"name": "190000"
+																																																																			}],
+																																																																			"name": "190300"
+																																																																		}],
+																																																																		"name": "190000"
+																																																																	}],
+																																																																	"name": "5200"
+																																																																}],
+																																																																"name": "190000"
+																																																															}],
+																																																															"name": "190300"
+																																																														}],
+																																																														"name": "190000"
+																																																													}],
+																																																													"name": "5200"
+																																																												}],
+																																																												"name": "190000"
+																																																											}],
+																																																											"name": "190300"
+																																																										}],
+																																																										"name": "190000"
+																																																									}],
+																																																									"name": "5200"
+																																																								}],
+																																																								"name": "190000"
+																																																							}],
+																																																							"name": "190300"
+																																																						}],
+																																																						"name": "190000"
+																																																					}],
+																																																					"name": "5200"
+																																																				}],
+																																																				"name": "190000"
+																																																			}],
+																																																			"name": "190300"
+																																																		}],
+																																																		"name": "190000"
+																																																	}],
+																																																	"name": "5200"
+																																																}],
+																																																"name": "190000"
+																																															}],
+																																															"name": "190300"
+																																														}],
+																																														"name": "190000"
+																																													}],
+																																													"name": "5200"
+																																												}],
+																																												"name": "190000"
+																																											}],
+																																											"name": "190300"
+																																										}],
+																																										"name": "190000"
+																																									}],
+																																									"name": "5200"
+																																								}],
+																																								"name": "190000"
+																																							}],
+																																							"name": "190300"
+																																						}],
+																																						"name": "190000"
+																																					}],
+																																					"name": "5200"
+																																				}],
+																																				"name": "190000"
+																																			}],
+																																			"name": "190300"
+																																		}],
+																																		"name": "190000"
+																																	}],
+																																	"name": "5200"
+																																}],
+																																"name": "190000"
+																															}],
+																															"name": "190300"
+																														}],
+																														"name": "190000"
+																													}],
+																													"name": "5200"
+																												}],
+																												"name": "190000"
+																											}],
+																											"name": "190300"
+																										}],
+																										"name": "190000"
+																									}],
+																									"name": "5200"
+																								}],
+																								"name": "190000"
+																							}],
+																							"name": "190300"
+																						}],
+																						"name": "190000"
+																					}],
+																					"name": "5200"
+																				}],
+																				"name": "190000"
+																			}],
+																			"name": "190300"
+																		}],
+																		"name": "190000"
+																	}],
+																	"name": "5200"
+																},
+																{
+																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 HIN=100.00%",
+																	"name": "190100"
+																}],
+																"name": "190000"
+															}],
+															"name": "190300"
+														}],
+														"name": "190000"
+													}],
+													"name": "5200"
+												},
+												{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=20.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=2 calls_terminated=0 calls_passed=0 BEN=100.00%",
+													"name": "190100"
+												}],
+												"name": "190000"
+											}],
+											"name": "190300"
+										}],
+										"name": "190000"
+									}],
+									"name": "5200"
+								},
+								{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=16.67%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=3 calls_terminated=0 calls_passed=0 BEN=66.67% HIN=33.33%",
+									"name": "190100"
+								}],
+								"name": "190000"
+							}],
+							"name": "190300"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=2.63%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190500"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=28.95%, hits=11 unique_subs=11 total_fraction=0.17% calls_transfered=11 calls_terminated=0 calls_passed=0 BEN=90.91% HIN=9.09%",
+							"name": "190100"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=7.89%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=1 calls_passed=2 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+												"children": [{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+													"name": "190100"
+												}],
+												"name": "190000"
+											}],
+											"name": "190300"
+										}],
+										"name": "190000"
+									}],
+									"name": "5200"
+								}],
+								"name": "190000"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+												"children": [{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+													"children": [{
+														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+														"children": [{
+															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+															"children": [{
+																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																"children": [{
+																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																	"children": [{
+																		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+																		"name": "190000"
+																	}],
+																	"name": "190300"
+																}],
+																"name": "190000"
+															}],
+															"name": "5200"
+														}],
+														"name": "190300"
+													}],
+													"name": "190000"
+												}],
+												"name": "5200"
+											}],
+											"name": "190000"
+										}],
+										"name": "190300"
+									}],
+									"name": "190000"
+								}],
+								"name": "5200"
+							}],
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "5200"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=44.08%, hits=186 unique_subs=161 total_fraction=2.89% calls_transfered=186 calls_terminated=0 calls_passed=0 BEN=92.47% HIN=6.45% ENG=1.08%",
+					"name": "190100"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=6.87%, hits=29 unique_subs=29 total_fraction=0.45% calls_transfered=0 calls_terminated=15 calls_passed=14 BEN=86.21% HIN=10.34% ENG=3.45%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=48.28%, hits=14 unique_subs=14 total_fraction=0.22% calls_transfered=2 calls_terminated=1 calls_passed=11 BEN=92.86% ENG=7.14%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=7.14%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190300"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=7.14%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190400"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=7.14%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+								"name": "190000"
+							}],
+							"name": "190500"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=21.43%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=3 calls_terminated=0 calls_passed=0 BEN=66.67% ENG=33.33%",
+							"name": "190100"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=35.71%, hits=5 unique_subs=5 total_fraction=0.08% calls_transfered=0 calls_terminated=2 calls_passed=3 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=60.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+									"name": "190100"
+								},
+								{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=66.67%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=2 calls_passed=0 BEN=100.00%",
+									"name": "190200"
+								}],
+								"name": "190000"
+							}],
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "190200"
+				}],
+				"name": "190000"
+			},
+			{
+				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=3.28%, hits=32 unique_subs=32 total_fraction=0.50% calls_transfered=0 calls_terminated=0 calls_passed=32 BEN=84.38% HIN=12.50% ENG=3.12%",
+				"children": [{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=32 unique_subs=32 total_fraction=0.50% calls_transfered=0 calls_terminated=0 calls_passed=32 BEN=84.38% HIN=12.50% ENG=3.12%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=31.25%, hits=10 unique_subs=10 total_fraction=0.16% calls_transfered=0 calls_terminated=2 calls_passed=8 BEN=80.00% HIN=20.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=70.00%, hits=7 unique_subs=7 total_fraction=0.11% calls_transfered=0 calls_terminated=0 calls_passed=7 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=28.57%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+												"children": [{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+													"children": [{
+														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+														"children": [{
+															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+															"children": [{
+																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																"children": [{
+																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																	"children": [{
+																		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																		"children": [{
+																			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																			"children": [{
+																				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																				"children": [{
+																					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																					"children": [{
+																						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																						"children": [{
+																							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																							"children": [{
+																								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+																								"name": "190300"
+																							}],
+																							"name": "190000"
+																						}],
+																						"name": "5200"
+																					}],
+																					"name": "190000"
+																				}],
+																				"name": "190300"
+																			}],
+																			"name": "190000"
+																		}],
+																		"name": "5200"
+																	}],
+																	"name": "190000"
+																}],
+																"name": "190300"
+															}],
+															"name": "190000"
+														}],
+														"name": "5200"
+													}],
+													"name": "190000"
+												}],
+												"name": "190300"
+											}],
+											"name": "190000"
+										}],
+										"name": "5200"
+									},
+									{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+										"name": "190100"
+									}],
+									"name": "190000"
+								}],
+								"name": "190300"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+												"children": [{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+													"children": [{
+														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+														"name": "190100"
+													}],
+													"name": "190000"
+												}],
+												"name": "190400"
+											}],
+											"name": "190000"
+										}],
+										"name": "190200"
+									}],
+									"name": "190000"
+								}],
+								"name": "190400"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=28.57%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+												"children": [{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+													"children": [{
+														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=1 calls_passed=1 BEN=100.00%",
+														"children": [{
+															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+															"children": [{
+																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																"children": [{
+																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																	"children": [{
+																		"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																		"children": [{
+																			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																			"children": [{
+																				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																				"children": [{
+																					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+																					"name": "190100"
+																				}],
+																				"name": "190000"
+																			}],
+																			"name": "5200"
+																		}],
+																		"name": "190000"
+																	}],
+																	"name": "190300"
+																}],
+																"name": "190000"
+															}],
+															"name": "5200"
+														}],
+														"name": "190300"
+													}],
+													"name": "190000"
+												}],
+												"name": "5200"
+											}],
+											"name": "190000"
+										}],
+										"name": "190300"
+									}],
+									"name": "190000"
+								}],
+								"name": "5200"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+								"name": "190100"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+								"name": "190200"
+							}],
+							"name": "190000"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=10.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 HIN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 HIN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 HIN=100.00%",
+									"name": "190300"
+								}],
+								"name": "190000"
+							}],
+							"name": "5200"
+						}],
+						"name": "190300"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=3.12%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+								"name": "190100"
+							}],
+							"name": "190000"
+						}],
+						"name": "190400"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=3.12%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+								"name": "190100"
+							}],
+							"name": "190000"
+						}],
+						"name": "5200"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=46.88%, hits=15 unique_subs=15 total_fraction=0.23% calls_transfered=15 calls_terminated=0 calls_passed=0 BEN=80.00% HIN=13.33% ENG=6.67%",
+						"name": "190100"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=15.62%, hits=5 unique_subs=5 total_fraction=0.08% calls_transfered=0 calls_terminated=1 calls_passed=4 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=80.00%, hits=4 unique_subs=4 total_fraction=0.06% calls_transfered=0 calls_terminated=0 calls_passed=4 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=25.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+										"name": "190400"
+									}],
+									"name": "190000"
+								}],
+								"name": "190500"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=2 calls_terminated=0 calls_passed=0 BEN=100.00%",
+								"name": "190100"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=25.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+										"name": "190200"
+									}],
+									"name": "190000"
+								}],
+								"name": "190200"
+							}],
+							"name": "190000"
+						}],
+						"name": "190200"
+					}],
+					"name": "190000"
+				}],
+				"name": "5200"
+			}],
+			"name": "190300"
+		},
+		{
+			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=2.75%, hits=177 unique_subs=155 total_fraction=2.75% calls_transfered=6 calls_terminated=124 calls_passed=47 BEN=88.70% HIN=8.47% ENG=2.82%",
+			"children": [{
+				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=23.73%, hits=42 unique_subs=38 total_fraction=0.65% calls_transfered=0 calls_terminated=5 calls_passed=37 BEN=97.62% HIN=2.38%",
+				"children": [{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=4.76%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=1 calls_passed=1 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+									"name": "190200"
+								}],
+								"name": "190000"
+							}],
+							"name": "190300"
+						}],
+						"name": "190000"
+					}],
+					"name": "190300"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=16.67%, hits=7 unique_subs=5 total_fraction=0.11% calls_transfered=0 calls_terminated=4 calls_passed=3 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=42.86%, hits=3 unique_subs=2 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=3 unique_subs=2 total_fraction=0.05% calls_transfered=0 calls_terminated=1 calls_passed=2 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=66.67%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+												"children": [{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+													"children": [{
+														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+														"children": [{
+															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+															"children": [{
+																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																"children": [{
+																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+																	"name": "190100"
+																}],
+																"name": "190000"
+															}],
+															"name": "190400"
+														}],
+														"name": "190000"
+													}],
+													"name": "190400"
+												}],
+												"name": "190000"
+											}],
+											"name": "190400"
+										},
+										{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+												"children": [{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+													"children": [{
+														"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+														"children": [{
+															"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+															"children": [{
+																"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+																"children": [{
+																	"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+																	"name": "190500"
+																}],
+																"name": "190000"
+															}],
+															"name": "190500"
+														}],
+														"name": "190000"
+													}],
+													"name": "190500"
+												}],
+												"name": "190000"
+											}],
+											"name": "190500"
+										}],
+										"name": "190000"
+									}],
+									"name": "190400"
+								}],
+								"name": "190000"
+							}],
+							"name": "190400"
+						}],
+						"name": "190000"
+					}],
+					"name": "190400"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=6 unique_subs=6 total_fraction=0.09% calls_transfered=0 calls_terminated=4 calls_passed=2 BEN=83.33% HIN=16.67%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+							"name": "190100"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "190500"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=35.71%, hits=15 unique_subs=15 total_fraction=0.23% calls_transfered=15 calls_terminated=0 calls_passed=0 BEN=100.00%",
+					"name": "190100"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=16.67%, hits=7 unique_subs=7 total_fraction=0.11% calls_transfered=0 calls_terminated=5 calls_passed=2 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=28.57%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+							"name": "190100"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+											"name": "190200"
+										}],
+										"name": "190000"
+									}],
+									"name": "190300"
+								}],
+								"name": "190000"
+							}],
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "190200"
+				}],
+				"name": "190000"
+			},
+			{
+				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=2.82%, hits=5 unique_subs=5 total_fraction=0.08% calls_transfered=0 calls_terminated=0 calls_passed=5 BEN=80.00% HIN=20.00%",
+				"children": [{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=5 unique_subs=5 total_fraction=0.08% calls_transfered=0 calls_terminated=0 calls_passed=5 BEN=80.00% HIN=20.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=20.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+												"name": "190100"
+											}],
+											"name": "190000"
+										}],
+										"name": "190200"
+									}],
+									"name": "190000"
+								}],
+								"name": "190300"
+							}],
+							"name": "190000"
+						}],
+						"name": "190300"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=40.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=2 calls_passed=0 BEN=100.00%",
+						"name": "190400"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=20.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 HIN=100.00%",
+						"name": "190500"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=20.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+						"name": "190100"
+					}],
+					"name": "190000"
+				}],
+				"name": "5200"
+			}],
+			"name": "190400"
+		},
+		{
+			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=2.99%, hits=192 unique_subs=181 total_fraction=2.99% calls_transfered=6 calls_terminated=115 calls_passed=71 BEN=92.71% HIN=5.73% ENG=1.56%",
+			"children": [{
+				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=64 unique_subs=62 total_fraction=1.00% calls_transfered=4 calls_terminated=9 calls_passed=51 BEN=95.31% HIN=3.12% ENG=1.56%",
+				"children": [{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=12.50%, hits=8 unique_subs=8 total_fraction=0.12% calls_transfered=1 calls_terminated=3 calls_passed=4 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=4 unique_subs=4 total_fraction=0.06% calls_transfered=0 calls_terminated=0 calls_passed=4 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=25.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190300"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=25.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+									"name": "190500"
+								}],
+								"name": "190000"
+							}],
+							"name": "190400"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=2 calls_terminated=0 calls_passed=0 BEN=100.00%",
+									"name": "190100"
+								}],
+								"name": "190000"
+							}],
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "190300"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=1.56%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+					"name": "190400"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=32.81%, hits=21 unique_subs=20 total_fraction=0.33% calls_transfered=0 calls_terminated=14 calls_passed=7 BEN=95.24% ENG=4.76%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=7 unique_subs=7 total_fraction=0.11% calls_transfered=0 calls_terminated=2 calls_passed=5 BEN=85.71% ENG=14.29%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+									"name": "190500"
+								}],
+								"name": "190000"
+							}],
+							"name": "5200"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+									"name": "190400"
+								}],
+								"name": "190000"
+							}],
+							"name": "190300"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=42.86%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=2 calls_passed=1 BEN=66.67% ENG=33.33%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+											"name": "190500"
+										}],
+										"name": "190000"
+									}],
+									"name": "190500"
+								}],
+								"name": "190000"
+							}],
+							"name": "190500"
+						}],
+						"name": "190000"
+					}],
+					"name": "190500"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=3.12%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=1 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+							"name": "190100"
+						}],
+						"name": "190000"
+					}],
+					"name": "5200"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=17.19%, hits=11 unique_subs=11 total_fraction=0.17% calls_transfered=11 calls_terminated=0 calls_passed=0 BEN=81.82% HIN=18.18%",
+					"name": "190100"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=12.50%, hits=8 unique_subs=8 total_fraction=0.12% calls_transfered=0 calls_terminated=5 calls_passed=3 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=37.50%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+								"name": "190000"
+							}],
+							"name": "5200"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190500"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+							"name": "190100"
+						}],
+						"name": "190000"
+					}],
+					"name": "190200"
+				}],
+				"name": "190000"
+			},
+			{
+				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=3.65%, hits=7 unique_subs=7 total_fraction=0.11% calls_transfered=0 calls_terminated=0 calls_passed=7 BEN=100.00%",
+				"children": [{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=7 unique_subs=7 total_fraction=0.11% calls_transfered=0 calls_terminated=1 calls_passed=6 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+												"name": "190200"
+											}],
+											"name": "190000"
+										}],
+										"name": "5200"
+									}],
+									"name": "190000"
+								}],
+								"name": "5200"
+							}],
+							"name": "190000"
+						}],
+						"name": "5200"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+						"name": "190300"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+								"name": "190500"
+							}],
+							"name": "190000"
+						}],
+						"name": "190500"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=28.57%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=2 calls_terminated=0 calls_passed=0 BEN=100.00%",
+						"name": "190100"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+									"name": "190100"
+								}],
+								"name": "190000"
+							}],
+							"name": "5200"
+						}],
+						"name": "190200"
+					}],
+					"name": "190000"
+				}],
+				"name": "5200"
+			}],
+			"name": "190500"
+		},
+		{
+			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=0.92%, hits=59 unique_subs=58 total_fraction=0.92% calls_transfered=0 calls_terminated=0 calls_passed=59 BEN=93.22% HIN=5.08% ENG=1.69%",
+			"children": [{
+				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=59 unique_subs=58 total_fraction=0.92% calls_transfered=1 calls_terminated=11 calls_passed=47 BEN=93.22% HIN=5.08% ENG=1.69%",
+				"children": [{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=11.86%, hits=7 unique_subs=7 total_fraction=0.11% calls_transfered=1 calls_terminated=3 calls_passed=3 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=42.86%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=1 calls_terminated=0 calls_passed=2 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190500"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+									"name": "190100"
+								}],
+								"name": "190000"
+							}],
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "190500"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=8.47%, hits=5 unique_subs=5 total_fraction=0.08% calls_transfered=0 calls_terminated=1 calls_passed=4 BEN=60.00% HIN=40.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=60.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=66.67% HIN=33.33%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=66.67%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=2 calls_terminated=0 calls_passed=0 BEN=50.00% HIN=50.00%",
+							"name": "190100"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190200"
+						}],
+						"name": "190000"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=20.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+										"name": "190200"
+									}],
+									"name": "190000"
+								}],
+								"name": "190300"
+							}],
+							"name": "190000"
+						}],
+						"name": "5200"
+					}],
+					"name": "190300"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=3.39%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=50.00% HIN=50.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=1 calls_passed=1 BEN=50.00% HIN=50.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190400"
+						}],
+						"name": "190000"
+					}],
+					"name": "5200"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=40.68%, hits=24 unique_subs=24 total_fraction=0.37% calls_transfered=24 calls_terminated=0 calls_passed=0 BEN=95.83% ENG=4.17%",
+					"name": "190100"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=15.25%, hits=9 unique_subs=9 total_fraction=0.14% calls_transfered=0 calls_terminated=7 calls_passed=2 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=22.22%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=1 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+									"name": "190200"
+								}],
+								"name": "190000"
+							}],
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "190200"
+				}],
+				"name": "190000"
+			}],
+			"name": "5200"
+		},
+		{
+			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=58.07%, hits=3731 unique_subs=2651 total_fraction=58.07% calls_transfered=3728 calls_terminated=3 calls_passed=0 BEN=90.22% HIN=7.96% ENG=1.82%",
+			"name": "190100"
+		},
+		{
+			"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=9.98%, hits=641 unique_subs=604 total_fraction=9.98% calls_transfered=24 calls_terminated=388 calls_passed=229 BEN=87.52% HIN=9.67% ENG=2.81%",
+			"children": [{
+				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=31.67%, hits=203 unique_subs=199 total_fraction=3.16% calls_transfered=14 calls_terminated=28 calls_passed=161 BEN=90.64% HIN=5.91% ENG=3.45%",
+				"children": [{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=11.33%, hits=23 unique_subs=23 total_fraction=0.36% calls_transfered=1 calls_terminated=11 calls_passed=11 BEN=95.65% HIN=4.35%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=47.83%, hits=11 unique_subs=11 total_fraction=0.17% calls_transfered=0 calls_terminated=2 calls_passed=9 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=18.18%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=1 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+									"name": "190500"
+								}],
+								"name": "190000"
+							}],
+							"name": "190400"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=54.55%, hits=6 unique_subs=6 total_fraction=0.09% calls_transfered=6 calls_terminated=0 calls_passed=0 BEN=100.00%",
+							"name": "190100"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=9.09%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "190300"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=3.94%, hits=8 unique_subs=8 total_fraction=0.12% calls_transfered=0 calls_terminated=1 calls_passed=7 BEN=75.00% HIN=12.50% ENG=12.50%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=87.50%, hits=7 unique_subs=7 total_fraction=0.11% calls_transfered=1 calls_terminated=0 calls_passed=6 BEN=71.43% HIN=14.29% ENG=14.29%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+											"name": "190200"
+										}],
+										"name": "190000"
+									}],
+									"name": "190200"
+								}],
+								"name": "190000"
+							}],
+							"name": "190300"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=42.86%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=1 calls_passed=2 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=66.67%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=2 calls_passed=0 BEN=100.00%",
+									"name": "190500"
+								}],
+								"name": "190000"
+							}],
+							"name": "190500"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 ENG=100.00%",
+							"name": "190100"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=14.29%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+											"name": "190500"
+										}],
+										"name": "190000"
+									}],
+									"name": "190500"
+								}],
+								"name": "190000"
+							}],
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "190400"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=2.96%, hits=6 unique_subs=6 total_fraction=0.09% calls_transfered=0 calls_terminated=3 calls_passed=3 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=1 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+							"name": "190400"
+						}],
+						"name": "190000"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=16.67%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+								"name": "190100"
+							}],
+							"name": "190000"
+						}],
+						"name": "5200"
+					}],
+					"name": "190500"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=2.96%, hits=6 unique_subs=6 total_fraction=0.09% calls_transfered=0 calls_terminated=0 calls_passed=6 BEN=100.00%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=6 unique_subs=6 total_fraction=0.09% calls_transfered=0 calls_terminated=0 calls_passed=6 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=16.67%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+											"name": "190100"
+										}],
+										"name": "190000"
+									}],
+									"name": "190300"
+								}],
+								"name": "190000"
+							}],
+							"name": "190300"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=2 calls_terminated=0 calls_passed=0 BEN=100.00%",
+							"name": "190100"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=1 calls_passed=2 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+									"name": "190100"
+								}],
+								"name": "190000"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+										"name": "190200"
+									}],
+									"name": "190000"
+								}],
+								"name": "5200"
+							}],
+							"name": "190200"
+						}],
+						"name": "190000"
+					}],
+					"name": "5200"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=40.39%, hits=82 unique_subs=82 total_fraction=1.28% calls_transfered=82 calls_terminated=0 calls_passed=0 BEN=90.24% HIN=6.10% ENG=3.66%",
+					"name": "190100"
+				},
+				{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=17.73%, hits=36 unique_subs=36 total_fraction=0.56% calls_transfered=2 calls_terminated=26 calls_passed=8 BEN=94.44% HIN=2.78% ENG=2.78%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=19.44%, hits=7 unique_subs=7 total_fraction=0.11% calls_transfered=0 calls_terminated=1 calls_passed=6 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=42.86%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=0 calls_terminated=0 calls_passed=3 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+									"name": "190400"
+								},
+								{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+									"name": "190500"
+								},
+								{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+												"name": "190000"
+											}],
+											"name": "190300"
+										}],
+										"name": "190000"
+									}],
+									"name": "190200"
+								}],
+								"name": "190000"
+							}],
+							"name": "190300"
+						},
+						{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=42.86%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=3 calls_terminated=0 calls_passed=0 BEN=100.00%",
+							"name": "190100"
+						}],
+						"name": "190000"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=2.78%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+								"name": "190100"
+							}],
+							"name": "190000"
+						}],
+						"name": "5200"
+					}],
+					"name": "190200"
+				}],
+				"name": "190000"
+			},
+			{
+				"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=4.06%, hits=26 unique_subs=26 total_fraction=0.40% calls_transfered=0 calls_terminated=0 calls_passed=26 BEN=92.31% HIN=3.85% ENG=3.85%",
+				"children": [{
+					"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=26 unique_subs=26 total_fraction=0.40% calls_transfered=0 calls_terminated=1 calls_passed=25 BEN=92.31% HIN=3.85% ENG=3.85%",
+					"children": [{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=7.69%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=50.00% ENG=50.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=2 unique_subs=2 total_fraction=0.03% calls_transfered=0 calls_terminated=0 calls_passed=2 BEN=50.00% ENG=50.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 ENG=100.00%",
+								"name": "190100"
+							},
+							{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+										"name": "190200"
+									}],
+									"name": "190000"
+								}],
+								"name": "190200"
+							}],
+							"name": "190000"
+						}],
+						"name": "190300"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=3.85%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=1 calls_passed=0 BEN=100.00%",
+						"name": "190400"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=11.54%, hits=3 unique_subs=3 total_fraction=0.05% calls_transfered=1 calls_terminated=1 calls_passed=1 BEN=100.00%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=33.33%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+								"children": [{
+									"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+									"children": [{
+										"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+										"children": [{
+											"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+											"children": [{
+												"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+												"children": [{
+													"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+													"name": "190100"
+												}],
+												"name": "190000"
+											}],
+											"name": "5200"
+										}],
+										"name": "190500"
+									}],
+									"name": "190000"
+								}],
+								"name": "190300"
+							}],
+							"name": "190000"
+						}],
+						"name": "190500"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=50.00%, hits=13 unique_subs=13 total_fraction=0.20% calls_transfered=13 calls_terminated=0 calls_passed=0 BEN=100.00%",
+						"name": "190100"
+					},
+					{
+						"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=23.08%, hits=6 unique_subs=6 total_fraction=0.09% calls_transfered=0 calls_terminated=5 calls_passed=1 BEN=83.33% HIN=16.67%",
+						"children": [{
+							"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=16.67%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=0 calls_terminated=0 calls_passed=1 BEN=100.00%",
+							"children": [{
+								"property": "total_unique_subs=4587, total_hits=6425, inbound_ratio=100.00%, hits=1 unique_subs=1 total_fraction=0.02% calls_transfered=1 calls_terminated=0 calls_passed=0 BEN=100.00%",
+								"name": "190100"
+							}],
+							"name": "190000"
+						}],
+						"name": "190200"
+					}],
+					"name": "190000"
+				}],
+				"name": "5200"
+			}],
+			"name": "190200"
+		}],
+		"name": "190000"
+	}],
+	"name": "5200"
+}]

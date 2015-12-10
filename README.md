@@ -11,3 +11,33 @@ The architecture of UX DD3 is very simple - at core it has DD3 JS or NVD JS code
 firstly, local json file ( ideal for Windows based and offline reporting. )
 Secondly, remote json file ( complete server path from where data needs to be pulled from.)
 Lastly, Ajax API ( this primarily works for streaming cases, where the data is pulled by a web service before the construct is displayed. ) 
+
+
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------- DD3 Library Documentation ---------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+	For use this API =>
+	
+	a). you firstly include the basic js file in this order
+		jquery.min.js 
+		d3.v3.min.js
+		DD3.js.
+	b). After, you make your own Script File and include here
+		example-abc-data.js
+
+
+/*----------------------------------------------------------- Some Important Points------------------------------------------------------------------------------*/
+1. For Single Module :	Area, Histogram, Pie, Donut
+	xAxis and yAxis keys are internally fix. you can pass here a flat JSON 
+	You can use these keys in data.
+	for xAxis	: "key"
+	for yAxis	: "value"
+	
+2. For Mutiple Categories Module :	Grouped Histogram, Line, Scatterplot
+	your Flat Json is converted internally their own structure.
+	but here you need to specify "xCategories" for xAxis.
+	
+3. 
+	

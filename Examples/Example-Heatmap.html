@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+	<link href="../css/bootstrap.css" rel="stylesheet" />	
+	<link href="../css/font-awesome.min.css" rel="stylesheet" />
+<style>
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.7);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+  rect.bordered {
+        stroke: #E6E6E6;
+        stroke-width:2px;   
+      }
+
+      text.mono {
+        font-size: 9pt;
+        font-family: Consolas, courier;
+        fill: #aaa;
+      }
+
+      text.axis-workweek {
+        fill: #000;
+      }
+
+      text.axis-worktime {
+        fill: #000;
+      }
+
+
+</style>
+<body>
+<div class="container">
+	<div class="panel panel-primary">
+		<div class="panel-heading">
+			<h4 class="panel-title center">DD3 Heatmap Chart</h4>
+		</div>
+		<div class="panel-body center">
+			<div class="row">
+				<div class="col-md-12">
+					<div id="heatmap"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/d3.v3.min.js"></script>
+<script src="../js/d3.tip.v0.6.3.js"></script>
+<script src="../plugins/dd3.js"></script>
+<script src="../module/example-heatmap-data.js"></script>
+
+</body>
+</html>

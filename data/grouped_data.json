@@ -1,0 +1,47 @@
+[
+    {
+        "labels": [
+            "resilience",
+            "maintainability",
+            "accessibility",
+            "uptime",
+            "functionality",
+            "impact"
+        ],
+        "series": [
+            {
+                "label": "2012",
+                "values": [
+                    "4",
+                    "8",
+                    "15",
+                    "16",
+                    "32",
+                    "42"
+                ]
+            },
+            {
+                "label": "2013",
+                "values": [
+                    "12",
+                    "43",
+                    "22",
+                    "11",
+                    "23",
+                    "25"
+                ]
+            },
+            {
+                "label": "2014",
+                "values": [
+                    "31",
+                    "28",
+                    "14",
+                    "8",
+                    "15",
+                    "21"
+                ]
+            }
+        ]
+    }
+]

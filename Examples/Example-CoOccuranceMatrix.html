@@ -1,0 +1,63 @@
+
+<!doctype html>
+
+<meta charset="utf-8">
+<title>DD3 Demo: CoOccurance Matrix</title>
+<link href="../css/bootstrap.css" rel="stylesheet" />	
+<link href="../css/bootstrap-theme.css" rel="stylesheet" />
+<link href="../css/font-awesome.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-table.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+	<link href="../css/style.css" rel="stylesheet" />
+
+<style id="css">
+body {
+  font: 200 12px 'Helvetica Neue', Helvetica;
+}
+.background {
+  fill: #eee;
+}
+
+line {
+  stroke: #fff;
+}
+text.active {
+  fill: red;
+}
+</style>
+<div class="container">
+	<div class="panel panel-primary">
+		<div class="panel-heading">
+			<h4 class="panel-title center">DD3 TCP Flow Chart</h4>
+		</div>
+		<div class="panel-body">
+			<div class="row">
+				<div class = "col-md-4 center">
+					<label for = "order">Order by: </label>
+				</div>
+				<div class=" col-md-4 center">
+					<select id="choose" name="choose" class="form-control">
+						<option value="name">by Name</option>
+						<option value="count">by Frequency</option>
+						<option value="group">by Cluster</option>
+					</select>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 center">					
+					<div id = "xyz"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/d3.v3.min.js"></script>
+<script src="../js/d3.tip.v0.6.3.js"></script>
+<!-- <script src="js/dagre-d3/dagre-d3.js"></script> -->
+<script src="../plugins/dd3.js"></script>
+<script src="../module/example-CoOccuranceMatrix-data.js"></script>
+</body>
+</html>

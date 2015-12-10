@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+	<link href="../css/bootstrap.css" rel="stylesheet" />	
+	<link href="../css/bootstrap-theme.css" rel="stylesheet" />
+	<link href="../css/font-awesome.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-table.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+	<link href="../css/style.css"  rel="stylesheet" />
+<style>
+
+
+
+
+.link {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.tree_container{
+	height: 600px;
+	overflow: auto;
+}
+</style>
+<body>
+<div class="container">
+	<div class="panel panel-primary">
+		<div class="panel-heading">
+			<h4 class="panel-title center">DD3 Tree Layout</h4>
+		</div>
+		<div class="panel-body center">
+			<div class="row">
+				<div class="col-md-12">
+					<div id="chart1" class="tree_container"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/d3.v3.min.js"></script>
+<script src="../js/d3.tip.v0.6.3.js"></script>
+<script src="../plugins/dd3.js"></script>
+<script src="../module/example-padigree_tree-data.js"></script>
+</body>
+</html>

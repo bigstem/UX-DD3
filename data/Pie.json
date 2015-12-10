@@ -1,0 +1,30 @@
+[
+	{
+		"key" : "Apple",
+		"value": 200282
+	}, {
+		"key" : "Banana",
+		"value": 100382
+	}, {
+		"key" : "Grapes",
+		"value": 150399
+	}, {
+		"key" : "Pineples",
+		"value": 250299
+	}, {
+		"key" : "Fig",
+		"value": 50200
+	}, {
+		"key" : "Orange",
+		"value": 135920
+	}, {
+		"key" : "Strawberry",
+		"value": 150300
+	}, {
+		"key" : "Mango",
+		"value": 60202
+	}, {
+		"key" : "Lichi",
+		"value": 14520
+	}
+]

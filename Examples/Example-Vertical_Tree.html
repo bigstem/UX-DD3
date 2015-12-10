@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+	<link href="../css/bootstrap.css" rel="stylesheet" />	
+	<link href="../css/bootstrap-theme.css" rel="stylesheet" />
+	<link href="../css/font-awesome.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-table.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+	<link href="../css/style.css"  rel="stylesheet" />
+<style>
+/*
+.node rect {
+	  fill: #fff;
+	  stroke: steelblue;
+	  stroke-width: 3px;
+	}
+
+	.node text { font: 12px sans-serif; }
+
+	.link {
+	  fill: none;
+	  stroke: #ccc;
+	  stroke-width: 2px;
+	}
+	*/
+	
+.node {
+    cursor: pointer;
+}
+.node rect {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+.node text {
+    font: 10px sans-serif;
+}
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
+}
+
+#vertical_tree {
+    overflow-x: scroll;
+	
+}
+	
+	
+</style>
+<body>
+<div class="container">
+	<div class="panel panel-primary">
+		<div class="panel-heading">
+			<h4 class="panel-title center">DD3 Chord Layout</h4>
+		</div>
+		<div class="panel-body center">
+			<div class="row">
+				<div class="col-md-12">
+					<div id="vertical_tree"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/d3.v3.min.js"></script>
+<script src="../plugins/dd3.js"></script>
+<script src="../module/example-vertical_tree-data.js"></script>
+</body>
+</html>

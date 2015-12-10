@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>DD3 Demo: Network Model</title>
+	
+		<link href="../css/bootstrap.css" rel="stylesheet" />	
+		<link href="../css/bootstrap-theme.css" rel="stylesheet" />
+		<link href="../css/font-awesome.min.css" rel="stylesheet" />
+		<link href="../css/bootstrap-table.min.css" rel="stylesheet" />
+		<link href="../css/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+		<link href="../css/style.css" rel="stylesheet" />
+	
+<style>
+.center{
+	text-align: center;
+}
+.link {
+  stroke: rgba(1,1,1,.1);
+  fill: none;
+}
+
+.nodetext {
+  pointer-events: none;
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+.node-network.fixed text.nodetext {
+  fill: #f00;
+}
+
+.fixed_circle {
+  stroke: black;
+}
+
+
+
+</style>
+</head>
+<body>
+<div class="container">
+	<div class="panel panel-primary">
+		<div class="panel-heading">
+			<h4 class="panel-title center"><b>DD3 Demo: Network Model</b></h4>
+		</div>
+		<div class="panel-body center">
+			<div class="row">
+				<div class="col-md-12">
+					<div id="chart" ></div>
+					<!-- <div id="citation_menu"></div> -->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/d3.v3.min.js"></script>
+<script src="../js/d3.tip.v0.6.3.js"></script>
+<script src="../plugins/dd3.js"></script>
+<script src="../module/example-network_graph-data.js"></script>
+</body>
+</html>

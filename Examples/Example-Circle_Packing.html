@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+	<link href="../css/bootstrap.css" rel="stylesheet" />	
+	<link href="../css/bootstrap-theme.css" rel="stylesheet" />
+	<link href="../css/font-awesome.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-table.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+	<link href="../css/style.css"  rel="stylesheet" />
+<style>
+circle {
+  fill: rgb(31, 119, 180);
+  fill-opacity: .25;
+  stroke: rgb(31, 119, 180);
+  stroke-width: 1px;
+}
+
+.leaf circle {
+  fill: #ff7f0e;
+  fill-opacity: 1;
+}
+
+text {
+  font: 10px sans-serif;
+}
+</style>
+<body>
+<div class="container">
+	<div class="panel panel-primary">
+		<div class="panel-heading">
+			<h4 class="panel-title center">DD3 Circle Packing Layout</h4>
+		</div>
+		<div class="panel-body center">
+			<div class="row">
+				<div class="col-md-12">
+					<div id="packing"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/d3.v3.min.js"></script>
+<script src="../plugins/dd3.js"></script>
+<script src="../module/example-circle_packing-data.js"></script>
+</body>
+</html>

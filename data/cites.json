@@ -1,0 +1,3028 @@
+[{
+  "nodes": [
+    {
+      "group": "0", 
+      "name": "Nash J C 2008" , "nodeValue": 250, "nodeSize":4 , "meta": "Nash, Jennifer C. 2008. \"Re-Thinking Intersectionality.\" <em>Feminist Review</em> 89 (1): 1-15. doi:10.1057/fr.2008.4."
+    }, 
+    {
+      "group": "1", 
+      "name": "Cerwonka A 2008" , "nodeValue": 250, "nodeValue": 250, "nodeSize":5 , "meta": "Cerwonka, Allaine. 2008. \"Traveling Feminist Thought: Difference and Transculturation in Central and Eastern European Feminism.\" <em>Signs: Journal of Women in Culture and Society</em> 33 (4): 809-32. doi:10.1086/528852."
+    }, 
+    {
+      "group": "2", 
+      "name": "Herman J L 1981" , "nodeValue": 250, "nodeSize":12 , "meta": "Herman, Judith. 1981. <em>Father-Daughter Incest</em>. Harvard University Press."
+    }, 
+    {
+      "group": "3", 
+      "name": "Sassen S 1998" , "nodeValue": 250, "nodeSize":9 , "meta": "Sassen, Saskia. 1998. <em>Globalization and Its Discontents</em>. First edition. New York: New Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Foucault M 1977" , "nodeValue": 250, "nodeSize":27 , "meta": "Foucault, Michel. 1977. <em>Discipline and Punish: The Birth of the Prison</em>. New York: Pantheon."
+    }, 
+    {
+      "group": "5", 
+      "name": "White D G 1985" , "nodeValue": 250, "nodeSize":14 , "meta": "White, Deborah G. 1985. <em>Ar'n't I a Woman?: Female Slaves in the Plantation South</em>. New York: Norton."
+    }, 
+    {
+      "group": "6", 
+      "name": "West C 1987" , "nodeValue": 250, "nodeSize":9 , "meta": "West, Candace, and Don H. Zimmerman. 1987. \"Doing Gender.\" <em>Gender &amp; Society</em> 1 (2): 125-51. doi:10.1177/0891243287001002002."
+    }, 
+    {
+      "group": "6", 
+      "name": "MacKinnon C 1989" , "nodeValue": 250, "nodeSize":16 , "meta": "MacKinnon, Catharine A. 1989. <em>Toward a Feminist Theory of the State</em>. Cambridge, Mass.: Harvard University Press."
+    }, 
+    {
+      "group": "6", 
+      "name": "MacKinnon C 1987" , "nodeValue": 250, "nodeSize":17 , "meta": "MacKinnon, Catharine A. 1987. <em>Feminism Unmodified: Discourses on Life and Law</em>. Cambridge, Mass.: Harvard University Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "MacKinnon C 1983" , "nodeValue": 250, "nodeSize":8 , "meta": "MacKinnon, Catharine A. 1983. \"Feminism, Marxism, Method, and the State: Toward Feminist Jurisprudence.\" <em>Signs: Journal of Women in Culture and Society</em> 8 (4): 635-58."
+    }, 
+    {
+      "group": "4", 
+      "name": "Young I M 1990" , "nodeValue": 250, "nodeSize":9 , "meta": "Young, Iris Marion. 2011. <em>Justice and the Politics of Difference</em>. Princeton, N.J: Princeton University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Hartsock N 1985" , "nodeValue": 250, "nodeSize":7 , "meta": "Hartsock, Nancy C. M. 1985. <em>Money, Sex, and Power: Toward a Feminist Historical Materialism</em>. Boston: Northeastern University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Foucault M 1984" , "nodeValue": 250, "nodeSize":9 , "meta": "Foucault, Michel, and Paul Rabinow. 1984. <em>The Foucault Reader</em>. New York: Pantheon Books."
+    }, 
+    {
+      "group": "4", 
+      "name": "De Lauretis T 1987" , "nodeValue": 250, "nodeSize":18 , "meta": "De Lauretis, Teresa. 1987. <em>Technologies of Gender: Essays on Theory, Film, and Fiction</em>. Bloomington: Indiana University Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "De Lauretis T 1986" , "nodeValue": 250, "nodeSize":7 , "meta": "De Lauretis, Teresa, ed. 1986. <em>Feminist Studies / Critical Studies</em>. Bloomington: Indiana University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "De Lauretis T 1984" , "nodeValue": 250, "nodeSize":17 , "meta": "De Lauretis, Teresa. 1984. <em>Alice Doesn't: Feminism, Semiotics, Cinema</em>. Bloomington: Indiana University Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Chow R 1991" , "nodeValue": 250, "nodeSize":7 , "meta": "Chow, Rey. 1991. <em>Woman and Chinese Modernity: The Politics of Reading between West and East</em>. Minneapolis, MN: University of Minnesota Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Kennedy E 1993" , "nodeValue": 250, "nodeSize":8 , "meta": "Kennedy, Elizabeth Lapovsky, and Madeline D. Davis. 1993. <em>Boots of Leather, Slippers of Gold: The History of a Lesbian Community</em>. New York: Routledge."
+    }, 
+    {
+      "group": "4", 
+      "name": "Garber M 1992" , "nodeValue": 250, "nodeSize":9 , "meta": "Garber, Marjorie B. 1992. <em>Vested Interests: Cross-Dressing &amp; Cultural Anxiety</em>. New York: Routledge."
+    }, 
+    {
+      "group": "7", 
+      "name": "Narayan U 1997" , "nodeValue": 250, "nodeSize":16 , "meta": "Narayan, Uma. 1997. <em>Dislocating Cultures: Identities, Traditions, and Third-World Feminism</em>. New York: Routledge."
+    }, 
+    {
+      "group": "8", 
+      "name": "Parrenas R 2001" , "nodeValue": 250, "nodeSize":10 , "meta": "Parre&ntilde;as, Rhacel Salazar. 2001. <em>Servants of Globalization: Women, Migration and Domestic Work</em>. Stanford, Calif.: Stanford University Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Spillers HJ 1987" , "nodeValue": 250, "nodeSize":9 , "meta": "Spillers, Hortense J. 1987. \"Mama's Baby, Papa's Maybe: An American Grammar Book.\" <em>Diacritics</em> 17 (2): 64. doi:10.2307/464747."
+    }, 
+    {
+      "group": "1", 
+      "name": "Einhorn B 1993" , "nodeValue": 250, "nodeSize":7 , "meta": "Einhorn, Barbara. 1993. <em>Cinderella Goes to Market: Citizenship, Gender, and Women's Movements in East Central Europe</em>. London; New York: Verso."
+    }, 
+    {
+      "group": "2", 
+      "name": "Friedan B 1963" , "nodeValue": 250, "nodeSize":21 , "meta": "Friedan, Betty. 1963. <em>The Feminine Mystique</em>. New York: W.W. Norton."
+    }, 
+    {
+      "group": "4", 
+      "name": "Lacan J 1977" , "nodeValue": 250, "nodeSize":12 , "meta": "Lacan, Jacques. 1977. <em>&Eacute;crits: A Selection</em>. New York: Norton."
+    }, 
+    {
+      "group": "5", 
+      "name": "Jones J 1985" , "nodeValue": 250, "nodeSize":10 , "meta": "Jones, Jacqueline. 1985. <em>Labor of Love, Labor of Sorrow: Black Women, Work, and the Family from Slavery to the Present</em>. New York: Basic Books."
+    }, 
+    {
+      "group": "8", 
+      "name": "Chin C 1998" , "nodeValue": 250, "nodeSize":5 , "meta": "Chin, Christine B. N. 1998. <em>In Service and Servitude: Foreign Female Domestic Workers and the Malaysian \"Modernity\" Project.</em> New York: Columbia University Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Griffin S 1972" , "nodeValue": 250, "nodeSize":4 , "meta": "Griffin, Susan. 1972. \"Rape: The All-American Crime.\" <em>Ramparts Magazine</em>, September, 26-35."
+    }, 
+    {
+      "group": "1", 
+      "name": "Funk N 2004" , "nodeValue": 250, "nodeSize":5 , "meta": "Funk, Nanette. 2004. \"Feminist Critiques of Liberalism: Can They Travel East? Their Relevance in Eastern and Central Europe and the Former Soviet Union.\" <em>Signs: Journal of Women in Culture and Society</em> 29 (3): 695-726. doi:10.1086/381105."
+    }, 
+    {
+      "group": "6", 
+      "name": "Smith D 1990" , "nodeValue": 250, "nodeSize":10 , "meta": "Smith, Dorothy E. 1990. <em>The Conceptual Practices of Power: A Feminist Sociology of Knowledge</em>. Boston: Northeastern University Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Davis A 1981" , "nodeValue": 250, "nodeSize":20 , "meta": "Davis, Angela Y. 1981. <em>Women, Race &amp; Class</em>. New York: Vintage Books."
+    }, 
+    {
+      "group": "6", 
+      "name": "Lyotard J 1984" , "nodeValue": 250, "nodeSize":9 , "meta": "Lyotard, Jean-Fran&ccedil;ois. 1984. <em>The Postmodern Condition: A Report on Knowledge</em>. Trans. Geoffrey Bennington and Brian Massumi. Minneapolis: University of Minnesota Press."
+    }, 
+    {
+      "group": "9", 
+      "name": "Humphries J 1977" , "nodeValue": 250, "nodeSize":8 , "meta": "Humphries, Jane. 1977. \"The Working Class Family, Women's Liberation, and Class Struggle: The Case of Nineteenth Century British History.\" <em>Review of Radical Political Economics</em> 9 (3): 25-41. doi:10.1177/048661347700900305."
+    }, 
+    {
+      "group": "0", 
+      "name": "McCall L 2005" , "nodeValue": 250, "nodeSize":9 , "meta": "McCall, Leslie. 2005. \"The Complexity of Intersectionality.\" <em>Signs</em> 30 (3): 1771-1800. doi:10.1086/signs.2005.30.issue-3."
+    }, 
+    {
+      "group": "6", 
+      "name": "Harding S 1987" , "nodeValue": 250, "nodeSize":13 , "meta": "Harding, Sandra G. 1987. <em>Feminism and Methodology Social Science Issues</em>. Milton Keynes [Buckinghamshire]: Open University Press. http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=571."
+    }, 
+    {
+      "group": "6", 
+      "name": "Harding S 1986" , "nodeValue": 250, "nodeSize":30 , "meta": "Harding, Sandra G. 1986. <em>The Science Question in Feminism</em>. Ithaca: Cornell University Press."
+    }, 
+    {
+      "group": "6", 
+      "name": "Keller E F 1985" , "nodeValue": 250, "nodeSize":15 , "meta": "Keller, Evelyn Fox. 1985. <em>Reflections on Gender and Science</em>. New Haven: Yale University Press."
+    }, 
+    {
+      "group": "6", 
+      "name": "Harding S 1983" , "nodeValue": 250, "nodeSize":11 , "meta": "Harding, Sandra G, and Merrill B Hintikka. 1983. <em>Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science</em>. Dordrecht, Holland; Boston; Hingham, MA: D. Reidel; Sold and distributed in the USA and Canada by Kluwer Boston."
+    }, 
+    {
+      "group": "4", 
+      "name": "Sedgwick E K 1985" , "nodeValue": 250, "nodeSize":16 , "meta": "Sedgwick, Eve Kosofsky. 1985. <em>Between Men: English Literature and Male Homosocial Desire</em>. Reprint edition. New York: Columbia University Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Smith B 1983" , "nodeValue": 250, "nodeSize":17 , "meta": "Smith, Barbara. 1983. <em>Home Girls: A Black Feminist Anthology</em>. Rutgers University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "De Lauretis T 1990" , "nodeValue": 250, "nodeSize":9 , "meta": "De Lauretis, Teresa. 1990. \"Eccentric Subjects: Feminist Theory and Historical Consciousness.\" <em>Feminist Studies</em> 16 (1): 115. doi:10.2307/3177959."
+    }, 
+    {
+      "group": "4", 
+      "name": "De Lauretis T 1991" , "nodeValue": 250, "nodeSize":6 , "meta": "De Lauretis, Teresa. 1991. \"Queer Theory: Lesbian and Gay Sexualities.\" <em>Differences</em> 3 (2): iii-xviii."
+    }, 
+    {
+      "group": "4", 
+      "name": "De Lauretis T 1994" , "nodeValue": 250, "nodeSize":13 , "meta": "De Lauretis, Teresa. 1994. <em>The Practice of Love: Lesbian Sexuality and Perverse Desire</em>. Bloomington: Indiana University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "hooks b 1992" , "nodeValue": 250, "nodeSize":14 , "meta": "hooks, bell. 1992. <em>Black Looks: Race and Representation</em>. Boston, MA: South End Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "hooks b 1990" , "nodeValue": 250, "nodeSize":11 , "meta": "hooks, bell. 1990. <em>Yearning: Race, Gender, and Cultural Politics</em>. South End Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Spelman E V 1988" , "nodeValue": 250, "nodeSize":6 , "meta": "Spelman, Elizabeth V. 1988. <em>Inessential Woman: Problems of Exclusion in Feminist Thought</em>. Boston, Mass.: Beacon Press."
+    }, 
+    {
+      "group": "1", 
+      "name": "Funk N 1993" , "nodeValue": 250, "nodeSize":9 , "meta": "Funk, Nanette, and Magda Mueller. 1993. <em>Gender Politics and Post-Communism: Reflections from Eastern Europe and the Former Soviet Union</em>. New York: Routledge."
+    }, 
+    {
+      "group": "4", 
+      "name": "Munoz J E 1999" , "nodeValue": 250, "nodeSize":8 , "meta": "Mu&ntilde;oz, Jos&eacute; Esteban. 1999. <em>Disidentifications: Queers of Color and the Performance of Politics</em>. Minneapolis: University of Minnesota Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Daly M 1979" , "nodeValue": 250, "nodeSize":4 , "meta": "Daly, Mary. 1979. <em>Gyn/Ecology: The Metaethics of Radical Feminism</em>. London: Women's Press."
+    }, 
+    {
+      "group": "12", 
+      "name": "Chauncey G 1983" , "nodeValue": 250, "nodeSize":5 , "meta": "Chauncey, George. 1983. \"From Sexual Inversion To Homosexuality: Medicine And The Changing Conceptualization Of Female Deviance.\" <em>Salmagundi</em>, no. 58/59: 114-46."
+    }, 
+    {
+      "group": "7", 
+      "name": "Alloula M 1986" , "nodeValue": 250, "nodeSize":11 , "meta": "Alloula, Malek. 1986. <em>The Colonial Harem</em>. Minneapolis: University of Minnesota Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Rubin G 1975" , "nodeValue": 250, "nodeSize":33 , "meta": "Rubin, Gayle. 1975. \"The Traffic in Women: Notes on the 'Political Economy' of Sex.\" In <em>Toward an Anthropology of Women</em>, edited by Rayna R Reiter. New York: Monthly Review Press."
+    }, 
+    {
+      "group": "10", 
+      "name": "Zihlman AL 1978" , "nodeValue": 250, "nodeSize":6 , "meta": "Zihlman, Adrienne L. 1978. \"Women in Evolution, Part II: Subsistence and Social Organization among Early Hominids.\" <em>Signs</em> 4 (1): 4-20."
+    }, 
+    {
+      "group": "11", 
+      "name": "Boserup E 1970" , "nodeValue": 250, "nodeSize":28 , "meta": "Boserup, Ester. 1970. <em>Woman's Role in Economic Development.</em> New York: St. Martin's Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Mitchell J 1974" , "nodeValue": 250, "nodeSize":13 , "meta": "Mitchell, Juliet. 1974. <em>Psychoanalysis and Feminism.</em> New York: Pantheon Books."
+    }, 
+    {
+      "group": "5", 
+      "name": "Lorde A 1984" , "nodeValue": 250, "nodeSize":32 , "meta": "Lorde, Audre. 1984. <em>Sister Outsider: Essays and Speeches</em>. Trumansburg, NY: Crossing Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Bourdieu P 1977" , "nodeValue": 250, "nodeSize":13 , "meta": "Bourdieu, Pierre. 1977. <em>Outline of a theory of practice</em>. Cambridge, U.K.; New York: Cambridge University Press. http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=589175."
+    }, 
+    {
+      "group": "4", 
+      "name": "Dreger A D 1998" , "nodeValue": 250, "nodeSize":4 , "meta": "Dreger, Alice Domurat. 1998. <em>Hermaphrodites and the Medical Invention of Sex</em>. Cambridge, Mass.: Harvard University Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Freud S 1961" , "nodeValue": 250, "nodeSize":11 , "meta": "Freud, Sigmund. 1961. <em>The Standard Edition of the Complete Psychological Works of Sigmund Freud.</em> London: Hogarth Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Ortner S B 1974" , "nodeValue": 250, "nodeSize":19 , "meta": "Ortner, Sherry B. 1974. \"Is Female to Male as Nature Is to Culture?\" In <em>Woman, Culture, and Society</em>, edited by Michelle Zimbalist Rosaldo. Stanford University Press."
+    }, 
+    {
+      "group": "15", 
+      "name": "Connell RW 2000" , "nodeValue": 250, "nodeSize":7 , "meta": "Connell, RW. 2000. <em>The Men and the Boys</em>. Berkeley: University of California Press. http://www.ucpress.edu/book.php?isbn=9780520228696."
+    }, 
+    {
+      "group": "4", 
+      "name": "Barad K 1996" , "nodeValue": 250, "nodeSize":5 , "meta": "Barad, Karen. 1996. \"Meeting the Universe Halfway: Realism and Social Constructivism Without Contradiction.\" In <em>Feminism, Science, and the Philosophy of Science</em>, edited by Jack Nelson Lynn Hankinson Nelson. Springer Science &amp; Business Media."
+    }, 
+    {
+      "group": "2", 
+      "name": "Rawls J 1971" , "nodeValue": 250, "nodeSize":10 , "meta": "Rawls, John. 1971. <em>A Theory of Justice</em>. Cambridge, MA: Belknap Press of Harvard University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Rubin G 1984" , "nodeValue": 250, "nodeSize":13 , "meta": "Rubin, Gayle. 1984. \"Thinking Sex: Notes for a Radical Theory of the Politics of Sexuality.\" In <em>Pleasure and Danger: Exploring Female Sexuality</em>, edited by Carole S. Vance, 267-93. Boston: Routledge and Kegan Paul."
+    }, 
+    {
+      "group": "12", 
+      "name": "Rich A 1980" , "nodeValue": 250, "nodeSize":23 , "meta": "Rich, Adrienne. 1980. \"Compulsory Heterosexuality and Lesbian Existence.\" <em>Signs: Journal of Women in Culture and Society</em> 5 (4): 631-60."
+    }, 
+    {
+      "group": "7", 
+      "name": "McClintock A 1995" , "nodeValue": 250, "nodeSize":25 , "meta": "McClintock, Anne. 1995. <em>Imperial Leather: Race, Gender, and Sexuality in the Colonial Contest</em>. New York: Routledge."
+    }, 
+    {
+      "group": "4", 
+      "name": "Sedgwick E K 1993" , "nodeValue": 250, "nodeSize":8 , "meta": "Sedgwick, Eve Kosofsky. 1993. <em>Tendencies</em>. Durham: Duke University Press."
+    }, 
+    {
+      "group": "6", 
+      "name": "Harding Sandra 1991" , "nodeValue": 250, "nodeSize":19 , "meta": "Harding, Sandra G. 1991. <em>Whose Science? Whose Knowledge?: Thinking from Women's Lives</em>. Ithaca, N.Y.: Cornell University Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Rich A 1986" , "nodeValue": 250, "nodeSize":9 , "meta": "Rich, Adrienne. 1986. <em>Blood, Bread, and Poetry: Selected Prose, 1979-1985</em>. New York: Norton."
+    }, 
+    {
+      "group": "4", 
+      "name": "Sedgwick E K 1990" , "nodeValue": 250, "nodeSize":16 , "meta": "Sedgwick, Eve Kosofsky. 1990. <em>Epistemology of the Closet</em>. Berkeley: University of California Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "hooks b 1984" , "nodeValue": 250, "nodeSize":19 , "meta": "hooks, bell. 1984. <em>Feminist Theory from Margin to Center</em>. Boston, MA: South End Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Butler J 2004" , "nodeValue": 250, "nodeSize":12 , "meta": "Butler, Judith. 2004. <em>Undoing Gender</em>. New York; London: Routledge."
+    }, 
+    {
+      "group": "5", 
+      "name": "hooks b 1981" , "nodeValue": 250, "nodeSize":13 , "meta": "hooks, bell. 1981. <em>Ain't I a Woman: Black Women and Feminism</em>. Boston, MA: South End Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Christian B 1980" , "nodeValue": 250, "nodeSize":5 , "meta": "Christian, Barbara. 1980. <em>Black Women Novelists: The Development of a Tradition, 1892-1976</em>. Westport, Conn.: Greenwood Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Morrison T 1992" , "nodeValue": 250, "nodeSize":7 , "meta": "Morrison, Toni. 1992. <em>Playing in the Dark: Whiteness and the Literary Imagination</em>. Cambridge, Mass.: Harvard University Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Dinnerstein D 1976" , "nodeValue": 250, "nodeSize":30 , "meta": "Dinnerstein, Dorothy. 1976. <em>The Mermaid and the Minotaur: Sexual Arrangements and Human Malaise</em>. New York: Harper &amp; Row."
+    }, 
+    {
+      "group": "6", 
+      "name": "Rose H 1983" , "nodeValue": 250, "nodeSize":7 , "meta": "Rose, Hilary. 1983. \"Hand, Brain, and Heart: A Feminist Epistemology for the Natural Sciences.\" <em>Signs: Journal of Women in Culture and Society</em>, no. 9: 73-90."
+    }, 
+    {
+      "group": "4", 
+      "name": "Braidotti R 1991" , "nodeValue": 250, "nodeSize":6 , "meta": "Braidotti, Rosi. 1991. <em>Patterns of Dissonance: A Study of Women in Contemporary Philosophy</em>. New York: Routledge."
+    }, 
+    {
+      "group": "7", 
+      "name": "Mohanty C T 2003" , "nodeValue": 250, "nodeSize":20 , "meta": "Mohanty, Chandra Talpade. 2003. \"'Under Western Eyes' Revisited: Feminist Solidarity through Anticapitalist Struggles.\" <em>Signs</em> 28 (2): 499-535. doi:10.1086/signs.2003.28.issue-2."
+    }, 
+    {
+      "group": "6", 
+      "name": "Hartsock N 1987" , "nodeValue": 250, "nodeSize":4 , "meta": "Hartsock, Nancy. 1987. \"Rethinking Modernism: Minority vs. Majority Theories.\" <em>Cultural Critique</em>, no. 7: 187. doi:10.2307/1354155."
+    }, 
+    {
+      "group": "2", 
+      "name": "Daly M 1978" , "nodeValue": 250, "nodeSize":14 , "meta": "Daly, Mary. 1978. <em>Gyn/ecology: The Metaethics of Radical Feminism</em>. Boston: Beacon Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Fraser N 1995" , "nodeValue": 250, "nodeSize":7 , "meta": "Fraser, Nancy. 1995. \"Pragmatism, Feminism, and the Linguistic Turn.\" In <em>Feminist contentions: a philosophical exchange</em>, edited by Seyla Benhabib. New York: Routledge."
+    }, 
+    {
+      "group": "6", 
+      "name": "Hartsock N 1983" , "nodeValue": 250, "nodeSize":21 , "meta": "Hartsock, Nancy C. M. 1983. <em>Money, Sex, and Power: Toward a Feminist Historical Materialism</em>. New York: Longman."
+    }, 
+    {
+      "group": "2", 
+      "name": "Scott J W 1986" , "nodeValue": 250, "nodeSize":13 , "meta": "Scott, Joan W. 1986. \"Gender: A Useful Category of Historical Analysis.\" <em>The American Historical Review</em> 91 (5): 1053. doi:10.2307/1864376."
+    }, 
+    {
+      "group": "4", 
+      "name": "Laqueur T W 1990" , "nodeValue": 250, "nodeSize":12 , "meta": "Laqueur, Thomas Walter. 1990. <em>Making Sex: Body and Gender from the Greeks to Freud</em>. Cambridge, Mass.: Harvard University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Scott J W 1988" , "nodeValue": 250, "nodeSize":16 , "meta": "Scott, Joan W. 1988. <em>Gender and the Politics of History</em>. New York: Columbia University Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Kandiyoti D 1991" , "nodeValue": 250, "nodeSize":12 , "meta": "Kandiyoti, Deniz. 1991. <em>Women, Islam, and the State</em>. Philadelphia: Temple University Press."
+    }, 
+    {
+      "group": "10", 
+      "name": "Haraway D 1978" , "nodeValue": 250, "nodeSize":8 , "meta": "Haraway, Donna. 1978. \"Animal Sociology and a Natural Economy of the Body Politic, Part 1: A Political Physiology of Dominance.\" <em>Signs: Journal of Women in Culture and Society</em>, January."
+    }, 
+    {
+      "group": "7", 
+      "name": "Said E W 1978" , "nodeValue": 250, "nodeSize":17 , "meta": "Said, Edward W. 1978. <em>Orientalism</em>. New York: Vintage Books."
+    }, 
+    {
+      "group": "4", 
+      "name": "Foucault M 1973" , "nodeValue": 250, "nodeSize":9 , "meta": "Foucault, Michel. 1973. <em>The Order of Things: An Archaeology of the Human Sciences</em>. New York: Pantheon Books."
+    }, 
+    {
+      "group": "0", 
+      "name": "Collins P H 2000" , "nodeValue": 250, "nodeSize":18 , "meta": "Collins, Patricia Hill. 2000. <em>Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment</em>. Revised, 10th Anniv. edition. Routledge."
+    }, 
+    {
+      "group": "6", 
+      "name": "Spelman E V 1988" , "nodeValue": 250, "nodeSize":15 , "meta": "Spelman, Elizabeth V. 1988. <em>Inessential Woman: Problems of Exclusion in Feminist Thought</em>. Boston, Mass.: Beacon Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Ahmed L 1992" , "nodeValue": 250, "nodeSize":15 , "meta": "Ahmed, Leila. 1992. <em>Women and Gender in Islam: Historical Roots of a Modern Debate</em>."
+    }, 
+    {
+      "group": "5", 
+      "name": "Lewis D K 1977" , "nodeValue": 250, "nodeSize":8 , "meta": "Lewis, Diane K. 1977. \"A Response to Inequality: Black Women, Racism, and Sexism.\" <em>Signs: Journal of Women in Culture and Society</em> 3 (2): 339-61."
+    }, 
+    {
+      "group": "7", 
+      "name": "Frankenberg R 1993" , "nodeValue": 250, "nodeSize":16 , "meta": "Frankenberg, Ruth. 1993. <em>White Women, Race Matters: The Social Construction of Whiteness</em>. Minneapolis: University of Minnesota Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Chodorow N 1978" , "nodeValue": 250, "nodeSize":60 , "meta": "Chodorow, Nancy. 1978. <em>The Reproduction of Mothering: Psychoanalysis and the Sociology of Gender</em>. Berkeley: University of California Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Abu-Lughod L 1986" , "nodeValue": 250, "nodeSize":5 , "meta": "Abu-Lughod, Lila. 1986. <em>Veiled Sentiments: Honor and Poetry in a Bedouin Society</em>. Berkeley: University of California Press."
+    }, 
+    {
+      "group": "6", 
+      "name": "Smith D 1987" , "nodeValue": 250, "nodeSize":14 , "meta": "Smith, Dorothy E. 1987. <em>The Everyday World as Problematic: A Feminist Sociology</em>. Boston: Northeastern University Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Ware V 1992" , "nodeValue": 250, "nodeSize":8 , "meta": "Ware, Vron. 1992. <em>Beyond the Pale: White Women, Racism, and History</em>. London; New York: Verso."
+    }, 
+    {
+      "group": "4", 
+      "name": "Kessler S J 1990" , "nodeValue": 250, "nodeSize":4 , "meta": "Kessler, Suzanne J. 1990. \"The Medical Construction of Gender: Case Management of Intersexed Infants.\" <em>Signs: Journal of Women in Culture and Society</em> 16 (1): 3-26."
+    }, 
+    {
+      "group": "4", 
+      "name": "Foucault M 1988" , "nodeValue": 250, "nodeSize":13 , "meta": "Foucault, Michel. 1988. <em>Technologies of the Self: A Seminar with Michel Foucault</em>. Edited by Luther H Martin, Gutman, and Patrick H Hutton. Amherst: University of Massachusetts Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Miller A 1984" , "nodeValue": 250, "nodeSize":4 , "meta": "Miller, Alice. 1984. <em>Thou Shalt Not Be Aware: Society's Betrayal of the Child</em>. New York: Farrar, Straus, Giroux."
+    }, 
+    {
+      "group": "7", 
+      "name": "Mohanty C T 1988" , "nodeValue": 250, "nodeSize":10 , "meta": "Mohanty, Chandra Talpade. 1988. \"Under Western Eyes: Feminist Scholarship and Colonial Discourses.\" <em>Feminist Review</em>, no. 30: 61. doi:10.2307/1395054."
+    }, 
+    {
+      "group": "2", 
+      "name": "Benjamin J 1988" , "nodeValue": 250, "nodeSize":12 , "meta": "Benjamin, Jessica. 1988. <em>The Bonds of Love: Psychoanalysis, Feminism, and the Problem of Domination</em>. New York: Pantheon Books."
+    }, 
+    {
+      "group": "5", 
+      "name": "Giddings P 1984" , "nodeValue": 250, "nodeSize":16 , "meta": "Giddings, Paula. 1984. <em>When and where I enter: the impact of Black women on race and sex in America</em>. New York: W. Morrow."
+    }, 
+    {
+      "group": "7", 
+      "name": "Sandoval C 2000" , "nodeValue": 250, "nodeSize":15 , "meta": "Sandoval, Chela. 2000. <em>Methodology of the Oppressed</em>. Minneapolis, MN: University of Minnesota Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Scott J W 1991" , "nodeValue": 250, "nodeSize":8 , "meta": "Scott, Joan W. 1991. \"The Evidence of Experience.\" <em>Critical Inquiry</em> 17 (4): 773-97."
+    }, 
+    {
+      "group": "7", 
+      "name": "Kabeer N 1994" , "nodeValue": 250, "nodeSize":8 , "meta": "Kabeer, Naila. 1994. <em>Reversed Realities: Gender Hierarchies in Development Thought</em>. London; New York: Verso."
+    }, 
+    {
+      "group": "4", 
+      "name": "Riley D 1988" , "nodeValue": 250, "nodeSize":15 , "meta": "Riley, Denise. 1988. <em>Am I That Name?: Feminism and the Category of \"Women\" in History</em>. Minneapolis: University of Minnesota."
+    }, 
+    {
+      "group": "4", 
+      "name": "D'Emilio J 1983" , "nodeValue": 250, "nodeSize":7 , "meta": "D'Emilio, John. 1983. <em>Sexual Politics, Sexual Communities: The Making of a Homosexual Minority in the United States, 1940-1970</em>. Chicago: University of Chicago Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Fraser N 1989" , "nodeValue": 250, "nodeSize":13 , "meta": "Fraser, Nancy. 1989. <em>Unruly Practices: Power, Discourse, and Gender in Contemporary Social Theory</em>. Minneapolis: University of Minnesota Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Chow Rey 1993" , "nodeValue": 250, "nodeSize":7 , "meta": "Chow, Rey. 1993. <em>Writing Diaspora Tactics of Intervention in Contemporary Cultural Studies</em>. Bloomington: Indiana University Press. http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=569."
+    }, 
+    {
+      "group": "4", 
+      "name": "Fuss D 1989" , "nodeValue": 250, "nodeSize":17 , "meta": "Fuss, Diana. 1989. <em>Essentially Speaking: Feminism, Nature and Difference</em>. 1 edition. New York: Routledge."
+    }, 
+    {
+      "group": "0", 
+      "name": "Crenshaw K 1991" , "nodeValue": 250, "nodeSize":15 , "meta": "Crenshaw, Kimberl&eacute; Williams. 1991. \"Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color.\" <em>Stanford Law Review</em> 43 (6): 1241. doi:10.2307/1229039."
+    }, 
+    {
+      "group": "6", 
+      "name": "Smith D E 1974" , "nodeValue": 250, "nodeSize":6 , "meta": "Smith, Dorothy E. 1974. \"Women's Perspective as a Radical Critique of Sociology.\" <em>Sociological Inquiry</em> 44 (1): 7-13. doi:10.1111/j.1475-682X.1974.tb00718.x."
+    }, 
+    {
+      "group": "4", 
+      "name": "Wittig M 1992" , "nodeValue": 250, "nodeSize":6 , "meta": "Wittig, Monique. 1992. <em>The Straight Mind and Other Essays</em>. Boston: Beacon Press."
+    }, 
+    {
+      "group": "6", 
+      "name": "Smith D E 1979" , "nodeValue": 250, "nodeSize":5 , "meta": "Smith, Dorothy E. 1979. \"Sociology: A Sociology for Women.\" In <em>The Prism of Sex: Essays in the Sociology of Knowledge: Proceedings of a Symposium</em>, edited by Julia Ann Sherman and Evelyn Torton Beck. Madison: University of Wisconsin Press."
+    }, 
+    {
+      "group": "10", 
+      "name": "Tanner N 1976" , "nodeValue": 250, "nodeSize":7 , "meta": "Tanner, Nancy, and Adrienne L. Zihlman. 1976. \"Women in Evolution. Part I: Innovation and Selection in Human Origins.\" <em>Signs: Journal of Women in Culture and Society</em> 1 (3): 585-608."
+    }, 
+    {
+      "group": "5", 
+      "name": "Dill B T 1979" , "nodeValue": 250, "nodeSize":7 , "meta": "Dill, Bonnie Thornton. 1979. \"The Dialectics of Black Womanhood.\" <em>Signs: Journal of Women in Culture and Society</em> 4 (3): 543-55."
+    }, 
+    {
+      "group": "4", 
+      "name": "Foucault M 1980" , "nodeValue": 250, "nodeSize":27 , "meta": "Foucault, Michel, and Colin Gordon. 1980. <em>Power/knowledge: Selected Interviews and Other Writings, 1972-1977</em>. New York: Pantheon Books."
+    }, 
+    {
+      "group": "4", 
+      "name": "Bourdieu P 1990" , "nodeValue": 250, "nodeSize":8 , "meta": "Bourdieu, Pierre. 1990. <em>The Logic of Practice</em>. Stanford, Calif.: Stanford University Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Spivak G C 1999" , "nodeValue": 250, "nodeSize":9 , "meta": "Spivak, Gayatri Chakravorty. 1999. <em>A Critique of Postcolonial Reason: Toward a History of the Vanishing Present</em>. Cambridge, Mass.: Harvard University Press."
+    }, 
+    {
+      "group": "13", 
+      "name": "Bergeron S 2001" , "nodeValue": 250, "nodeSize":4 , "meta": "Bergeron, Suzanne. 2001. \"Political Economy Discourses of Globalization and Feminist Politics.\" <em>Signs: Journal of Women in Culture and Society</em> 26 (4): 983-1006."
+    }, 
+    {
+      "group": "7", 
+      "name": "Mohanty C T 1991" , "nodeValue": 250, "nodeSize":45 , "meta": "Mohanty, Chandra Talpade. 1991. \"Under Western Eyes: Feminist Scholarship and Colonial Discourses.\" In <em>Third World Women and the Politics of Feminism</em>, edited by Chandra Talpade Mohanty, Ann Russo, and Lourdes Torres. Bloomington: Indiana University Press."
+    }, 
+    {
+      "group": "14", 
+      "name": "Norton M B 1980" , "nodeValue": 250, "nodeSize":9 , "meta": "Norton, Mary Beth. 1980. <em>Liberty's Daughters: The Revolutionary Experience of American Women, 1750-1800</em>. Boston: Little, Brown."
+    }, 
+    {
+      "group": "4", 
+      "name": "Connell RW 1987" , "nodeValue": 250, "nodeSize":9 , "meta": "Connell, R. W. 1987. <em>Gender and Power: Society, the Person, and Sexual Politics</em>. 1 edition. Stanford, Calif: Stanford University Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Escobar A 1995" , "nodeValue": 250, "nodeSize":6 , "meta": "Escobar, Arturo. 1995. <em>Encountering Development: The Making and Unmaking of the Third World</em>. Princeton, N.J.: Princeton University Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Hirsch M 1990" , "nodeValue": 250, "nodeSize":6 , "meta": "Hirsh, Marianne, and Evelyn Fox Keller, eds. 1990. <em>Conflicts in Feminism</em>. London: Routledge."
+    }, 
+    {
+      "group": "2", 
+      "name": "Rush F 1980" , "nodeValue": 250, "nodeSize":7 , "meta": "Rush, Florence. 1980. <em>The Best Kept Secret: Sexual Abuse of Children</em>. Englewood Cliffs, N.J.: Prentice-Hall."
+    }, 
+    {
+      "group": "4", 
+      "name": "Weston K 1991" , "nodeValue": 250, "nodeSize":10 , "meta": "Weston, Kath. 1991. <em>Families We Choose Lesbians, Gays, Kinship</em>. New York: Columbia University Press. http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=48325."
+    }, 
+    {
+      "group": "1", 
+      "name": "Einhorn B 2003" , "nodeValue": 250, "nodeSize":4 , "meta": "Einhorn, Barbara, and Charlotte Sever. 2003. \"Gender and Civil Society in Central and Eastern Europe.\" <em>International Feminist Journal of Politics</em> 5 (2): 163-90. doi:10.1080/1461674032000080558."
+    }, 
+    {
+      "group": "2", 
+      "name": "Noddings N 1984" , "nodeValue": 250, "nodeSize":6 , "meta": "Noddings, Nel. 1984. <em>Caring, a Feminine Approach to Ethics &amp; Moral Education</em>. Berkeley: University of California Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Hull G T 1982" , "nodeValue": 250, "nodeSize":19 , "meta": "Hull, Gloria T, Patricia Bell-Scott, and Barbara Smith. 1982. <em>All the Women Are White, All the Blacks Are Men, but Some of Us Are Brave: Black Women's Studies</em>. Old Westbury, N.Y.: Feminist Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Gilkes C T 1985" , "nodeValue": 250, "nodeSize":4 , "meta": "Gilkes, Cheryl Townsend. 1985. \"'Together and in Harness': Women's Traditions in the Sanctified Church.\" <em>Signs: Journal of Women in Culture and Society</em> 10 (4): 678-99."
+    }, 
+    {
+      "group": "15", 
+      "name": "Connell RW 1995" , "nodeValue": 250, "nodeSize":13 , "meta": "Connell, Raewyn. 1995. <em>Masculinities</em>. Berkeley: University of California Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Grosz E 1994" , "nodeValue": 250, "nodeSize":10 , "meta": "Grosz, E. A. 1994. <em>Volatile Bodies: Toward a Corporeal Feminism</em>. Bloomington: Indiana University Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Visweswaran K 1994" , "nodeValue": 250, "nodeSize":6 , "meta": "Visweswaran, Kamala. 1994. <em>Fictions of Feminist Ethnography</em>. Minneapolis: University of Minnesota Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Abu-Lughod L 1990" , "nodeValue": 250, "nodeSize":15 , "meta": "Abu-Lughod, Lila. 1990. \"The Romance of Resistance: Tracing Transformations of Power through Bedouin Women.\" <em>American Ethnologist</em> 17 (1): 41-55. doi:10.1525/ae.1990.17.1.02a00030."
+    }, 
+    {
+      "group": "4", 
+      "name": "Fuss D 1995" , "nodeValue": 250, "nodeSize":8 , "meta": "Fuss, Diana. 1995. <em>Identification Papers</em>. New York: Routledge."
+    }, 
+    {
+      "group": "6", 
+      "name": "Scott J W 1988" , "nodeValue": 250, "nodeSize":12 , "meta": "Scott, Joan W. 1988. \"Deconstructing Equality-versus-Difference: Or, the Uses of Poststructuralist Theory for Feminism.\" <em>Feminist Studies</em> 14 (1): 33-50."
+    }, 
+    {
+      "group": "2", 
+      "name": "Flax J 1978" , "nodeValue": 250, "nodeSize":6 , "meta": "Flax, Jane. 1978. \"The Conflict between Nurturance and Autonomy in Mother-Daughter Relationships and within Feminism.\" <em>Feminist Studies</em> 4 (2): 171. doi:10.2307/3177468."
+    }, 
+    {
+      "group": "4", 
+      "name": "Fausto-Sterling A 2000" , "nodeValue": 250, "nodeSize":13 , "meta": "Fausto-Sterling, Anne. 2000. <em>Sexing the Body: Gender Politics and the Construction of Sexuality</em>. New York, NY: Basic Books."
+    }, 
+    {
+      "group": "6", 
+      "name": "Flax J 1987" , "nodeValue": 250, "nodeSize":11 , "meta": "Flax, Jane. 1987. \"Postmodernism and Gender Relations in Feminist Theory.\" <em>Signs: Journal of Women in Culture and Society</em> 12 (4): 621-43."
+    }, 
+    {
+      "group": "6", 
+      "name": "Merchant C 1980" , "nodeValue": 250, "nodeSize":7 , "meta": "Merchant, Carolyn. 1980. <em>The Death of Nature: Women, Ecology, and the Scientific Revolution</em>. San Francisco: Harper &amp; Row."
+    }, 
+    {
+      "group": "4", 
+      "name": "Doane M A 1987" , "nodeValue": 250, "nodeSize":7 , "meta": "Doane, Mary Ann. 1987. <em>The Desire to Desire: The Woman's Film of the 1940s</em>. Bloomington: Indiana University Press."
+    }, 
+    {
+      "group": "9", 
+      "name": "Hartmann H 1981" , "nodeValue": 250, "nodeSize":18 , "meta": "Hartmann, Heidi. 1981. \"The Unhappy Marriage of Marxism and Feminism: Towards a More Progressive Union.\" In <em>Women and Revolution: A Discussion of the Unhappy Marriage of Marxism and Feminism</em>, edited by Lydia Sargent. Boston, MA: South End Press."
+    }, 
+    {
+      "group": "14", 
+      "name": "Kerber L K 1980" , "nodeValue": 250, "nodeSize":13 , "meta": "Kerber, Linda K. 1980. <em>Women of the Republic: Intellect and Ideology in Revolutionary America</em>. Chapel Hill: Published for the Institute of Early American History and Culture by the University of North Carolina Press."
+    }, 
+    {
+      "group": "6", 
+      "name": "Bleier R 1984" , "nodeValue": 250, "nodeSize":9 , "meta": "Bleier, Ruth. 1984. <em>Science and Gender: A Critique of Biology and Its Theories on Women</em>. New York: Pergamon Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Haraway D 1991" , "nodeValue": 250, "nodeSize":25 , "meta": "Haraway, Donna J. 1991. <em>Simians, Cyborgs, and Women: The Reinvention of Nature</em>. New York: Routledge."
+    }, 
+    {
+      "group": "4", 
+      "name": "Haraway D 1997" , "nodeValue": 250, "nodeSize":12 , "meta": "Haraway, Donna Jeanne. 1997. <em>Modest-Witness@Second-Millennium.FemaleMan=Meets-OncoMouse: Feminism and Technoscience</em>. New York: Routledge."
+    }, 
+    {
+      "group": "4", 
+      "name": "Foucault M 1978" , "nodeValue": 250, "nodeSize":68 , "meta": "Foucault, Michel. 1978. <em>The History of Sexuality</em>. Trans. Robert Hurley. New York: Pantheon Books."
+    }, 
+    {
+      "group": "4", 
+      "name": "Rose Jacqueline 1986" , "nodeValue": 250, "nodeSize":8 , "meta": "Rose, Jacqueline. 1986. <em>Sexuality in the Field of Vision</em>. London: Verso."
+    }, 
+    {
+      "group": "0", 
+      "name": "Crenshaw K 1989" , "nodeValue": 250, "nodeSize":11 , "meta": "Crenshaw, Kimberle. 1989. \"Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.\" <em>University of Chicago Legal Forum</em> 1989: 139."
+    }, 
+    {
+      "group": "5", 
+      "name": "Walker A 1983" , "nodeValue": 250, "nodeSize":12 , "meta": "Walker, Alice. 1983. <em>In Search of Our Mothers' Gardens: Womanist Prose</em>. San Diego: Harcourt Brace Jovanovich."
+    }, 
+    {
+      "group": "5", 
+      "name": "Anzaldua G 1981" , "nodeValue": 250, "nodeSize":16 , "meta": "Anzald&uacute;a, Gloria, and Cherr&iacute;e Moraga. 1981. <em>This Bridge Called My Back: Writings by Radical Women of Color</em>. Watertown, Mass.: Persephone Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Anzaldua G 1987" , "nodeValue": 250, "nodeSize":31 , "meta": "Anzald&uacute;a, Gloria. 1987. <em>Borderlands: The New Mestiza = La Frontera</em>. San Francisco: Spinsters/Aunt Lute."
+    }, 
+    {
+      "group": "7", 
+      "name": "Grewal I 1994" , "nodeValue": 250, "nodeSize":29 , "meta": "Grewal, Inderpal, and Caren Kaplan. 1994. <em>Scattered Hegemonies: Postmodernity and Transnational Feminist Practices</em>. Minneapolis: University of Minnesota Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Rosaldo M Z 1974" , "nodeValue": 250, "nodeSize":24 , "meta": "Rosaldo, Michelle Zimbalist, Louise Lamphere, and Joan Bamberger. 1974. <em>Woman, Culture, and Society</em>. Stanford, CA: Stanford University Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Brownmiller S 1975" , "nodeValue": 250, "nodeSize":23 , "meta": "Brownmiller, Susan. 1975. <em>Against Our Will: Men, Women and Rape</em>. New York: Simon and Schuster."
+    }, 
+    {
+      "group": "2", 
+      "name": "Chodorow N 1982" , "nodeValue": 250, "nodeSize":6 , "meta": "Chodorow, Nancy, and Susan Contratto. 1982. \"The Fantasy of the Perfect Mother.\" In <em>Rethinking the Family: Some Feminist Questions</em>, edited by Barrie Thorne. New York: Longman."
+    }, 
+    {
+      "group": "2", 
+      "name": "Rich A 1976" , "nodeValue": 250, "nodeSize":17 , "meta": "Rich, Adrienne. 1976. <em>Of Woman Born: Motherhood as Experience and Institution</em>. New York: Norton."
+    }, 
+    {
+      "group": "2", 
+      "name": "Rich A 1979" , "nodeValue": 250, "nodeSize":18 , "meta": "Rich, Adrienne. 1979. <em>On Lies, Secrets, and Silence: Selected Prose, 1966-1978</em>. New York: Norton."
+    }, 
+    {
+      "group": "9", 
+      "name": "Hartmann H 1979" , "nodeValue": 250, "nodeSize":7 , "meta": "Hartmann, Heidi I. 1979. \"The Unhappy Marriage of Marxism and Feminism: Towards a More Progressive Union.\" <em>Capital &amp; Class</em> 3 (2): 1-33. doi:10.1177/030981687900800102."
+    }, 
+    {
+      "group": "11", 
+      "name": "Beneria L 1981" , "nodeValue": 250, "nodeSize":8 , "meta": "Bener&iacute;a, Lourdes, and Gita Sen. 1981. \"Accumulation, Reproduction, and &amp;quot;Women&amp;#39;s Role in Economic Development&amp;quot;: Boserup Revisited.\" <em>Signs</em> 7 (2): 279-98. doi:10.1086/493882."
+    }, 
+    {
+      "group": "2", 
+      "name": "Chodorow Nancy 1989" , "nodeValue": 250, "nodeSize":4 , "meta": "Chodorow, Nancy. 1989. <em>Feminism and Psychoanalytic Theory</em>. New Haven [Conn.]: Yale University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Irigaray L 1985" , "nodeValue": 250, "nodeSize":18 , "meta": "Irigaray, Luce. 1985. <em>Speculum of the Other Woman</em>. Trans. Gillian C. Gill. Ithaca, N.Y.: Cornell University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Stone S 1991" , "nodeValue": 250, "nodeSize":6 , "meta": "Stone, Sandy. 1991. \"The Empire Strikes Back: A Posttranssexual Manifesto.\" In <em>Body Guards: The Cultural Politics of Gender Ambiguity</em>, edited by Julia Epstein and Kristina Straub, First Edition. New York: Routledge."
+    }, 
+    {
+      "group": "2", 
+      "name": "Bem S L 1983" , "nodeValue": 250, "nodeSize":5 , "meta": "Bem, Sandra Lipsitz. 1983. \"Gender Schema Theory and Its Implications for Child Development: Raising Gender-Aschematic Children in a Gender-Schematic Society.\" <em>Signs: Journal of Women in Culture and Society</em> 8 (4): 598-616."
+    }, 
+    {
+      "group": "7", 
+      "name": "Ong A 1987" , "nodeValue": 250, "nodeSize":7 , "meta": "Ong, Aihwa. 1987. <em>Spirits of Resistance and Capitalist Discipline: Factory Women in Malaysia</em>. SUNY Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Duggan L 1992" , "nodeValue": 250, "nodeSize":5 , "meta": "Duggan, Lisa. 1992. \"Making It Perfectly Queer.\" <em>Socialist Review</em> 22 (1)."
+    }, 
+    {
+      "group": "7", 
+      "name": "Bordo S 1990" , "nodeValue": 250, "nodeSize":11 , "meta": "Bordo, Susan. 1990. \"Feminism, Postmodernism, and Gender-Scepticism.\" In <em>Feminism/Postmodernism</em>, edited by Linda Nicholson. Routledge."
+    }, 
+    {
+      "group": "4", 
+      "name": "Bordo S 1993" , "nodeValue": 250, "nodeSize":18 , "meta": "Bordo, Susan. 1993. <em>Unbearable Weight: Feminism, Western Culture, and the Body</em>. Berkeley: University of California Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Brown W 1995" , "nodeValue": 250, "nodeSize":21 , "meta": "Brown, Wendy. 1995. <em>States of Injury: Power and Freedom in Late Modernity</em>. Princeton, N.J.: Princeton University Press."
+    }, 
+    {
+      "group": "8", 
+      "name": "Constable N 1997" , "nodeValue": 250, "nodeSize":5 , "meta": "Constable, Nicole. 1997. <em>Maid to Order in Hong Kong: Stories of Filipina Workers</em>. Ithaca, N.Y.: Cornell University Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Chatterjee P 1986" , "nodeValue": 250, "nodeSize":5 , "meta": "Chatterjee, Partha. 1986. <em>Nationalist Thought and the Colonial World: A Derivative Discourse</em>. Zed Books."
+    }, 
+    {
+      "group": "4", 
+      "name": "Stoler A L 1995" , "nodeValue": 250, "nodeSize":8 , "meta": "Stoler, Ann Laura. 1995. <em>Race and the Education of Desire: Foucault's History of Sexuality and the Colonial Order of Things</em>. Durham: Duke University Press."
+    }, 
+    {
+      "group": "1", 
+      "name": "Watson Peggy 1993" , "nodeValue": 250, "nodeSize":4 , "meta": "Watson, Peggy. 1993. \"The Rise of Masculinism in Eastern Europe.\" <em>New Left Review</em>, no. 198: 71-82."
+    }, 
+    {
+      "group": "4", 
+      "name": "Collins Patricia Hill 1990" , "nodeValue": 250, "nodeSize":20 , "meta": "Collins, Patricia Hill. 1990. <em>Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment</em>. First Paperback edition. New York: Routledge."
+    }, 
+    {
+      "group": "4", 
+      "name": "Stein A 1992" , "nodeValue": 250, "nodeSize":5 , "meta": "Stein, Arlene. 1992. \"Sisters and Queers: The Decentering of Lesbian Feminism.\" <em>Socialist Review</em> 22 (1): 33-55."
+    }, 
+    {
+      "group": "2", 
+      "name": "Ruddick S 1980" , "nodeValue": 250, "nodeSize":13 , "meta": "Ruddick, Sara. 1980. \"Maternal Thinking.\" <em>Feminist Studies</em> 6 (2): 342. doi:10.2307/3177749."
+    }, 
+    {
+      "group": "12", 
+      "name": "Ferguson A 1981" , "nodeValue": 250, "nodeSize":6 , "meta": "Ferguson, Anne. 1981. \"Patriarchy, Sexual Identity, and the Sexual Revolution.\" <em>Signs: Journal of Women in Culture and Society</em> 7 (1): 158-72."
+    }, 
+    {
+      "group": "4", 
+      "name": "Meyerowitz J 2002" , "nodeValue": 250, "nodeSize":6 , "meta": "Meyerowitz, Joanne J. 2002. <em>How Sex Changed: A History of Transsexuality in the United States</em>. Cambridge, Mass.: Harvard University Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Chatterjee P 1993" , "nodeValue": 250, "nodeSize":11 , "meta": "Chatterjee, Partha. 1993. <em>The Nation and Its Fragments: Colonial and Postcolonial Histories</em>. Princeton, N.J.: Princeton University Press."
+    }, 
+    {
+      "group": "2", 
+      "name": "Gilligan C 1982" , "nodeValue": 250, "nodeSize":50 , "meta": "Gilligan, Carol. 1982. <em>In a Different Voice: Psychological Theory and Women's Development</em>. Cambridge, Mass.: Harvard University Press."
+    }, 
+    {
+      "group": "6", 
+      "name": "Haraway D 1989" , "nodeValue": 250, "nodeSize":14 , "meta": "Haraway, Donna J. 1989. <em>Primate Visions: Gender, Race, and Nature in the World of Modern Science</em>. New York: Routledge."
+    }, 
+    {
+      "group": "7", 
+      "name": "Haraway D 1988" , "nodeValue": 250, "nodeSize":15 , "meta": "Haraway, Donna J. 1988. \"Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.\" <em>Feminist Studies</em> 14 (3): 575. doi:10.2307/3178066."
+    }, 
+    {
+      "group": "2", 
+      "name": "Firestone S 1970" , "nodeValue": 250, "nodeSize":20 , "meta": "Firestone, Shulamith. 1970. <em>The Dialectic of Sex: The Case for Feminist Revolution</em>. New York: Morrow."
+    }, 
+    {
+      "group": "2", 
+      "name": "Cixous H 1976" , "nodeValue": 250, "nodeSize":10 , "meta": "Cixous, Helene. 1976. \"The Laugh of the Medusa.\" Translated by Keith Cohen and Paula Cohen. <em>Signs: Journal of Women in Culture and Society</em> 1 (4): 875-93."
+    }, 
+    {
+      "group": "7", 
+      "name": "Spivak G C 1988" , "nodeValue": 250, "nodeSize":30 , "meta": "Spivak, Gayatri Chakravorty. 1988. \"Can the Subaltern Speak?\" In <em>Marxism and the Interpretation of Culture</em>, edited by Cary Nelson and Lawrence Grossberg. University of Illinois Press."
+    }, 
+    {
+      "group": "5", 
+      "name": "Higginbotham E B 1992" , "nodeValue": 250, "nodeSize":10 , "meta": "Higginbotham, Elizabeth. 1992. \"African-American Women's History and the Metalanguage of Race.\" <em>Signs: Journal of Women in Culture and Society</em> 17 (2): 251-74."
+    }, 
+    {
+      "group": "7", 
+      "name": "Anzaldua Gloria 1990" , "nodeValue": 250, "nodeSize":15 , "meta": "Anzald&uacute;a, Gloria. 1990. <em>Making Face, Making Soul = Haciendo Caras: Creative and Critical Perspectives by Feminists of Color</em>."
+    }, 
+    {
+      "group": "0", 
+      "name": "King D K 1988" , "nodeValue": 250, "nodeSize":12 , "meta": "King, Deborah K. 1988. \"Multiple Jeopardy, Multiple Consciousness: The Context of a Black Feminist Ideology.\" <em>Signs: Journal of Women in Culture and Society</em> 14 (1): 42-72."
+    }, 
+    {
+      "group": "4", 
+      "name": "Butler J 1993" , "nodeValue": 250, "nodeSize":56 , "meta": "Butler, Judith. 1993. <em>Bodies That Matter: On the Discursive Limits of \"Sex\"</em>. New York: Routledge."
+    }, 
+    {
+      "group": "7", 
+      "name": "Mies M 1986" , "nodeValue": 250, "nodeSize":7 , "meta": "Mies, Maria. 1986. <em>Patriarchy and Accumulation on a World Scale: Women in the International Division of Labour</em>. London; Atlantic Highlands, N.J., USA; Atlantic Highlands, N.J.: Zed Books; Distributed in the U.S.A. and Canada by Humanities Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Mies M 1982" , "nodeValue": 250, "nodeSize":6 , "meta": "Mies, Maria, International Labour Office, and World Employment Programme. 1982. <em>The Lace Makers of Narsapur Indian Housewives Produce for the World Market</em>. London; Westport, Conn.: Zed Press; L. Hill, U.S. distributor. http://books.google.com/books?id=vXWaAAAAIAAJ."
+    }, 
+    {
+      "group": "4", 
+      "name": "Pateman C 1988" , "nodeValue": 250, "nodeSize":20 , "meta": "Pateman, Carole. 1988. <em>The Sexual Contract</em>. Stanford, Calif.: Stanford University Press."
+    }, 
+    {
+      "group": "7", 
+      "name": "Bhabha H 1994" , "nodeValue": 250, "nodeSize":17 , "meta": "Bhabha, Homi K. 1994. <em>The Location of Culture</em>. London; New York: Routledge."
+    }, 
+    {
+      "group": "12", 
+      "name": "Cook BW 1977" , "nodeValue": 250, "nodeSize":5 , "meta": "Cook, Blanche Wiesen. 1977. \"Female Support Networks and Political Activism: Lillian Wald, Crystal Eastman, Emma Goldman.\" <em>Chrysalis</em> 3: 43-61."
+    }, 
+    {
+      "group": "4", 
+      "name": "Williams R 1977" , "nodeValue": 250, "nodeSize":10 , "meta": "Williams, Raymond. 1977. <em>Marxism and Literature</em>. Oxford [England]: Oxford University Press."
+    }, 
+    {
+      "group": "3", 
+      "name": "Marchand M H 2000" , "nodeValue": 250, "nodeSize":7 , "meta": "Marchand, Marianne H, and Anne Sisson Runyan. 2000. <em>Gender and Global Restructuring: Sightings, Sites and Resistances</em>. London; New York: Routledge."
+    }, 
+    {
+      "group": "4", 
+      "name": "Irigaray L 1985" , "nodeValue": 250, "nodeSize":17 , "meta": "Irigaray, Luce. 1985. <em>This sex which is not one</em>. Trans. Catherine Porter. Ithaca, N.Y.: Cornell University Press."
+    }, 
+    {
+      "group": "12", 
+      "name": "Cook B W 1979" , "nodeValue": 250, "nodeSize":7 , "meta": "Cook, Blanche Wiesen. 1979. \"'Women Alone Stir My Imagination': Lesbianism and the Cultural Tradition.\" <em>Signs: Journal of Women in Culture and Society</em> 4 (4): 718-39."
+    }, 
+    {
+      "group": "2", 
+      "name": "Herman J L 1992" , "nodeValue": 250, "nodeSize":8 , "meta": "Herman, Judith Lewis. 1992. <em>Trauma and Recovery</em>. [New York, N.Y.]: BasicBooks."
+    }, 
+    {
+      "group": "5", 
+      "name": "Moraga C 1983" , "nodeValue": 250, "nodeSize":17 , "meta": "Moraga, Cherr&iacute;e, and Gloria Anzald&uacute;a. 1983. <em>This Bridge Called My Back: Writings by Radical Women of Color</em>. New York: Kitchen Table, Women of Color Press."
+    }, 
+    {
+      "group": "12", 
+      "name": "Faderman L 1981" , "nodeValue": 250, "nodeSize":17 , "meta": "Faderman, Lillian. 1981. <em>Surpassing the Love of Men: Romantic Friendship and Love between Women from the Renaissance to the Present</em>. New York: Morrow."
+    }, 
+    {
+      "group": "6", 
+      "name": "Jaggar A 1983" , "nodeValue": 250, "nodeSize":15 , "meta": "Jaggar, Alison M. 1983. <em>Feminist Politics and Human Nature</em>. Totowa, N.J.: Rowman &amp; Allanheld."
+    }, 
+    {
+      "group": "4", 
+      "name": "Butler J 2000" , "nodeValue": 250, "nodeSize":7 , "meta": "Butler, Judith. 2000. <em>Antigone's Claim Kinship between Life and Death</em>. New York: Columbia University Press. http://site.ebrary.com/id/10526211."
+    }, 
+    {
+      "group": "5", 
+      "name": "Carby H V 1987" , "nodeValue": 250, "nodeSize":22 , "meta": "Carby, Hazel V. 1987. <em>Reconstructing Womanhood: The Emergence of the Afro-American Woman Novelist</em>. New York: Oxford University Press."
+    }, 
+    {
+      "group": "1", 
+      "name": "Gal S 2000" , "nodeValue": 250, "nodeSize":11 , "meta": "Gal, Susan, and Gail Kligman. 2000. <em>The Politics of Gender after Socialism: A Comparative-Historical Essay</em>. Princeton, NJ: Princeton University Press."
+    }, 
+    {
+      "group": "13", 
+      "name": "Enloe C 1990" , "nodeValue": 250, "nodeSize":10 , "meta": "Enloe, Cynthia H. 1990. <em>Bananas, Beaches &amp; Bases: Making Feminist Sense of International Politics</em>. Berkeley: University of California Press."
+    }, 
+    {
+      "group": "0", 
+      "name": "Hancock A 2007" , "nodeValue": 250, "nodeSize":5 , "meta": "Hancock, Ange-Marie. 2007. \"When Multiplication Doesn't Equal Quick Addition: Examining Intersectionality as a Research Paradigm.\" <em>Perspectives on Politics</em> null (01): 63-79. doi:10.1017/S1537592707070065."
+    }, 
+    {
+      "group": "7", 
+      "name": "Laclau E 1985" , "nodeValue": 250, "nodeSize":10 , "meta": "Laclau, Ernesto, and Chantal Mouffe. 1985. <em>Hegemony and Socialist Strategy: Towards a Radical Democratic Politics</em>. London: Verso."
+    }, 
+    {
+      "group": "6", 
+      "name": "Fausto-Sterling A 1985" , "nodeValue": 250, "nodeSize":9 , "meta": "Fausto-Sterling, Anne. 1985. <em>Myths of Gender: Biological Theories about Women and Men</em>. New York: Basic Books."
+    }, 
+    {
+      "group": "9", 
+      "name": "Hartmann H 1976" , "nodeValue": 250, "nodeSize":13 , "meta": "Hartmann, Heidi. 1976. \"Capitalism, Patriarchy, and Job Segregation by Sex.\" <em>Signs: Journal of Women in Culture and Society</em> 1 (3): 137-69."
+    }, 
+    {
+      "group": "4", 
+      "name": "Butler J 1997" , "nodeValue": 250, "nodeSize":18 , "meta": "Butler, Judith. 1997. <em>Excitable Speech: A Politics of the Performative</em>. New York: Routledge."
+    }, 
+    {
+      "group": "4", 
+      "name": "Halberstam J 1998" , "nodeValue": 250, "nodeSize":15 , "meta": "Halberstam, Judith. 1998. <em>Female Masculinity</em>. Durham: Duke University Press."
+    }, 
+    {
+      "group": "4", 
+      "name": "Butler J 1995" , "nodeValue": 250, "nodeSize":9 , "meta": "Butler, Judith. 1995. \"Contingent Foundations.\" In <em>Feminist contentions: a philosophical exchange</em>, edited by Seyla Benhabib. New York: Routledge."
+    }, 
+    {
+      "group": "6", 
+      "name": "Alcoff L 1988" , "nodeValue": 250, "nodeSize":15 , "meta": "Alcoff, Linda. 1988. \"Cultural Feminism versus Post-Structuralism: The Identity Crisis in Feminist Theory.\" <em>Signs: Journal of Women in Culture and Society</em> 13 (3): 405-36."
+    }, 
+    {
+      "group": "7", 
+      "name": "Butler J 1992" , "nodeValue": 250, "nodeSize":9 , "meta": "Butler, Judith, and Joan Wallach Scott. 1992. <em>Feminists Theorize the Political</em>. New York: Routledge."
+    }, 
+    {
+      "group": "12", 
+      "name": "Smith-Rosenberg C 1975" , "nodeValue": 250, "nodeSize":27 , "meta": "Smith-Rosenberg, Carroll. 1975. \"The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America.\" <em>Signs: Journal of Women in Culture and Society</em> 1 (1): 1-29."
+    }, 
+    {
+      "group": "4", 
+      "name": "Butler J 1990" , "nodeValue": 250, "nodeSize":88 , "meta": "Butler, Judith P. 1990. <em>Gender Trouble: Feminism and the Subversion of Identity.</em> London: Routledge."
+    }, 
+    {
+      "group": "7", 
+      "name": "Alarcon N 1990" , "nodeValue": 250, "nodeSize":8 , "meta": "Alarcon, Norma. 1990. \"The Theoretical Subject(s) of This Bridge Called My Back and Anglo-American&nbsp; Feminism.\" In <em>Making Face, Making Soul = Haciendo Caras: Creative and Critical Perspectives by Feminists of Color</em>, edited by Gloria Anzald&uacute;a. San Francisco: Aunt Lute Foundation."
+    }, 
+    {
+      "group": "2", 
+      "name": "Belenky M F 1986" , "nodeValue": 250, "nodeSize":8 , "meta": "Belenky, Mary Field. 1986. <em>Women's Ways of Knowing: The Development of Self, Voice, and Mind</em>. New York: Basic Books."
+    }
+  ], 
+  "links": [
+    {
+      "source": 0, 
+      "target": 113, 
+      "value": 4
+    }, 
+    {
+      "source": 1, 
+      "target": 28, 
+      "value": 4
+    }, 
+    {
+      "source": 2, 
+      "target": 128, 
+      "value": 5
+    }, 
+    {
+      "source": 2, 
+      "target": 202, 
+      "value": 5
+    }, 
+    {
+      "source": 2, 
+      "target": 101, 
+      "value": 4
+    }, 
+    {
+      "source": 2, 
+      "target": 95, 
+      "value": 4
+    }, 
+    {
+      "source": 3, 
+      "target": 199, 
+      "value": 5
+    }, 
+    {
+      "source": 4, 
+      "target": 35, 
+      "value": 4
+    }, 
+    {
+      "source": 4, 
+      "target": 11, 
+      "value": 4
+    }, 
+    {
+      "source": 4, 
+      "target": 12, 
+      "value": 4
+    }, 
+    {
+      "source": 4, 
+      "target": 150, 
+      "value": 9
+    }, 
+    {
+      "source": 4, 
+      "target": 119, 
+      "value": 4
+    }, 
+    {
+      "source": 4, 
+      "target": 89, 
+      "value": 4
+    }, 
+    {
+      "source": 4, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 5, 
+      "target": 133, 
+      "value": 4
+    }, 
+    {
+      "source": 5, 
+      "target": 104, 
+      "value": 4
+    }, 
+    {
+      "source": 5, 
+      "target": 207, 
+      "value": 5
+    }, 
+    {
+      "source": 5, 
+      "target": 55, 
+      "value": 4
+    }, 
+    {
+      "source": 5, 
+      "target": 25, 
+      "value": 6
+    }, 
+    {
+      "source": 5, 
+      "target": 30, 
+      "value": 5
+    }, 
+    {
+      "source": 6, 
+      "target": 97, 
+      "value": 5
+    }, 
+    {
+      "source": 6, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 7, 
+      "target": 8, 
+      "value": 5
+    }, 
+    {
+      "source": 7, 
+      "target": 150, 
+      "value": 5
+    }, 
+    {
+      "source": 8, 
+      "target": 35, 
+      "value": 4
+    }, 
+    {
+      "source": 9, 
+      "target": 158, 
+      "value": 4
+    }, 
+    {
+      "source": 10, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 11, 
+      "target": 35, 
+      "value": 4
+    }, 
+    {
+      "source": 13, 
+      "target": 192, 
+      "value": 5
+    }, 
+    {
+      "source": 13, 
+      "target": 15, 
+      "value": 6
+    }, 
+    {
+      "source": 13, 
+      "target": 43, 
+      "value": 4
+    }, 
+    {
+      "source": 13, 
+      "target": 207, 
+      "value": 5
+    }, 
+    {
+      "source": 13, 
+      "target": 148, 
+      "value": 4
+    }, 
+    {
+      "source": 13, 
+      "target": 150, 
+      "value": 7
+    }, 
+    {
+      "source": 13, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 13, 
+      "target": 220, 
+      "value": 7
+    }, 
+    {
+      "source": 13, 
+      "target": 95, 
+      "value": 4
+    }, 
+    {
+      "source": 14, 
+      "target": 55, 
+      "value": 4
+    }, 
+    {
+      "source": 15, 
+      "target": 165, 
+      "value": 4
+    }, 
+    {
+      "source": 15, 
+      "target": 42, 
+      "value": 4
+    }, 
+    {
+      "source": 15, 
+      "target": 204, 
+      "value": 4
+    }, 
+    {
+      "source": 15, 
+      "target": 144, 
+      "value": 5
+    }, 
+    {
+      "source": 15, 
+      "target": 150, 
+      "value": 6
+    }, 
+    {
+      "source": 15, 
+      "target": 220, 
+      "value": 8
+    }, 
+    {
+      "source": 16, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 17, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 17, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 17, 
+      "target": 109, 
+      "value": 4
+    }, 
+    {
+      "source": 18, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 19, 
+      "target": 123, 
+      "value": 5
+    }, 
+    {
+      "source": 19, 
+      "target": 156, 
+      "value": 4
+    }, 
+    {
+      "source": 20, 
+      "target": 173, 
+      "value": 4
+    }, 
+    {
+      "source": 21, 
+      "target": 207, 
+      "value": 8
+    }, 
+    {
+      "source": 22, 
+      "target": 208, 
+      "value": 6
+    }, 
+    {
+      "source": 22, 
+      "target": 46, 
+      "value": 5
+    }, 
+    {
+      "source": 23, 
+      "target": 186, 
+      "value": 4
+    }, 
+    {
+      "source": 23, 
+      "target": 30, 
+      "value": 4
+    }, 
+    {
+      "source": 23, 
+      "target": 95, 
+      "value": 6
+    }, 
+    {
+      "source": 24, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 24, 
+      "target": 165, 
+      "value": 4
+    }, 
+    {
+      "source": 25, 
+      "target": 104, 
+      "value": 4
+    }, 
+    {
+      "source": 25, 
+      "target": 30, 
+      "value": 6
+    }, 
+    {
+      "source": 25, 
+      "target": 207, 
+      "value": 4
+    }, 
+    {
+      "source": 26, 
+      "target": 173, 
+      "value": 4
+    }, 
+    {
+      "source": 27, 
+      "target": 158, 
+      "value": 4
+    }, 
+    {
+      "source": 28, 
+      "target": 208, 
+      "value": 4
+    }, 
+    {
+      "source": 28, 
+      "target": 130, 
+      "value": 4
+    }, 
+    {
+      "source": 29, 
+      "target": 97, 
+      "value": 6
+    }, 
+    {
+      "source": 30, 
+      "target": 35, 
+      "value": 4
+    }, 
+    {
+      "source": 30, 
+      "target": 72, 
+      "value": 4
+    }, 
+    {
+      "source": 30, 
+      "target": 207, 
+      "value": 6
+    }, 
+    {
+      "source": 30, 
+      "target": 104, 
+      "value": 5
+    }, 
+    {
+      "source": 30, 
+      "target": 83, 
+      "value": 4
+    }, 
+    {
+      "source": 30, 
+      "target": 118, 
+      "value": 4
+    }, 
+    {
+      "source": 30, 
+      "target": 55, 
+      "value": 6
+    }, 
+    {
+      "source": 30, 
+      "target": 133, 
+      "value": 4
+    }, 
+    {
+      "source": 31, 
+      "target": 35, 
+      "value": 4
+    }, 
+    {
+      "source": 32, 
+      "target": 145, 
+      "value": 4
+    }, 
+    {
+      "source": 32, 
+      "target": 162, 
+      "value": 4
+    }, 
+    {
+      "source": 32, 
+      "target": 213, 
+      "value": 4
+    }, 
+    {
+      "source": 33, 
+      "target": 152, 
+      "value": 5
+    }, 
+    {
+      "source": 33, 
+      "target": 113, 
+      "value": 6
+    }, 
+    {
+      "source": 33, 
+      "target": 210, 
+      "value": 4
+    }, 
+    {
+      "source": 34, 
+      "target": 67, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 139, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 142, 
+      "value": 5
+    }, 
+    {
+      "source": 35, 
+      "target": 143, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 67, 
+      "value": 6
+    }, 
+    {
+      "source": 35, 
+      "target": 148, 
+      "value": 5
+    }, 
+    {
+      "source": 35, 
+      "target": 36, 
+      "value": 7
+    }, 
+    {
+      "source": 35, 
+      "target": 165, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 179, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 183, 
+      "value": 9
+    }, 
+    {
+      "source": 35, 
+      "target": 184, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 95, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 76, 
+      "value": 5
+    }, 
+    {
+      "source": 35, 
+      "target": 205, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 79, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 82, 
+      "value": 10
+    }, 
+    {
+      "source": 35, 
+      "target": 212, 
+      "value": 5
+    }, 
+    {
+      "source": 35, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 35, 
+      "target": 37, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 114, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 147, 
+      "value": 4
+    }, 
+    {
+      "source": 35, 
+      "target": 119, 
+      "value": 4
+    }, 
+    {
+      "source": 36, 
+      "target": 82, 
+      "value": 4
+    }, 
+    {
+      "source": 36, 
+      "target": 147, 
+      "value": 4
+    }, 
+    {
+      "source": 36, 
+      "target": 37, 
+      "value": 4
+    }, 
+    {
+      "source": 36, 
+      "target": 183, 
+      "value": 5
+    }, 
+    {
+      "source": 37, 
+      "target": 82, 
+      "value": 4
+    }, 
+    {
+      "source": 37, 
+      "target": 183, 
+      "value": 4
+    }, 
+    {
+      "source": 38, 
+      "target": 51, 
+      "value": 6
+    }, 
+    {
+      "source": 38, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 38, 
+      "target": 215, 
+      "value": 4
+    }, 
+    {
+      "source": 39, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 39, 
+      "target": 203, 
+      "value": 6
+    }, 
+    {
+      "source": 39, 
+      "target": 132, 
+      "value": 4
+    }, 
+    {
+      "source": 39, 
+      "target": 55, 
+      "value": 6
+    }, 
+    {
+      "source": 40, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 41, 
+      "target": 169, 
+      "value": 4
+    }, 
+    {
+      "source": 41, 
+      "target": 178, 
+      "value": 4
+    }, 
+    {
+      "source": 41, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 42, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 42, 
+      "target": 63, 
+      "value": 4
+    }, 
+    {
+      "source": 42, 
+      "target": 220, 
+      "value": 7
+    }, 
+    {
+      "source": 43, 
+      "target": 192, 
+      "value": 5
+    }, 
+    {
+      "source": 43, 
+      "target": 207, 
+      "value": 4
+    }, 
+    {
+      "source": 44, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 44, 
+      "target": 220, 
+      "value": 7
+    }, 
+    {
+      "source": 44, 
+      "target": 70, 
+      "value": 4
+    }, 
+    {
+      "source": 45, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 46, 
+      "target": 208, 
+      "value": 6
+    }, 
+    {
+      "source": 47, 
+      "target": 192, 
+      "value": 6
+    }, 
+    {
+      "source": 48, 
+      "target": 95, 
+      "value": 4
+    }, 
+    {
+      "source": 49, 
+      "target": 64, 
+      "value": 4
+    }, 
+    {
+      "source": 50, 
+      "target": 88, 
+      "value": 4
+    }, 
+    {
+      "source": 50, 
+      "target": 123, 
+      "value": 5
+    }, 
+    {
+      "source": 50, 
+      "target": 188, 
+      "value": 4
+    }, 
+    {
+      "source": 51, 
+      "target": 192, 
+      "value": 6
+    }, 
+    {
+      "source": 51, 
+      "target": 64, 
+      "value": 4
+    }, 
+    {
+      "source": 51, 
+      "target": 150, 
+      "value": 7
+    }, 
+    {
+      "source": 51, 
+      "target": 200, 
+      "value": 4
+    }, 
+    {
+      "source": 51, 
+      "target": 63, 
+      "value": 4
+    }, 
+    {
+      "source": 51, 
+      "target": 75, 
+      "value": 5
+    }, 
+    {
+      "source": 51, 
+      "target": 108, 
+      "value": 4
+    }, 
+    {
+      "source": 51, 
+      "target": 145, 
+      "value": 4
+    }, 
+    {
+      "source": 51, 
+      "target": 213, 
+      "value": 4
+    }, 
+    {
+      "source": 51, 
+      "target": 54, 
+      "value": 5
+    }, 
+    {
+      "source": 51, 
+      "target": 154, 
+      "value": 4
+    }, 
+    {
+      "source": 51, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 51, 
+      "target": 220, 
+      "value": 10
+    }, 
+    {
+      "source": 51, 
+      "target": 95, 
+      "value": 8
+    }, 
+    {
+      "source": 52, 
+      "target": 117, 
+      "value": 5
+    }, 
+    {
+      "source": 52, 
+      "target": 87, 
+      "value": 4
+    }, 
+    {
+      "source": 53, 
+      "target": 163, 
+      "value": 4
+    }, 
+    {
+      "source": 54, 
+      "target": 75, 
+      "value": 4
+    }, 
+    {
+      "source": 54, 
+      "target": 95, 
+      "value": 5
+    }, 
+    {
+      "source": 55, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 55, 
+      "target": 161, 
+      "value": 4
+    }, 
+    {
+      "source": 55, 
+      "target": 68, 
+      "value": 4
+    }, 
+    {
+      "source": 55, 
+      "target": 72, 
+      "value": 4
+    }, 
+    {
+      "source": 55, 
+      "target": 203, 
+      "value": 4
+    }, 
+    {
+      "source": 55, 
+      "target": 205, 
+      "value": 4
+    }, 
+    {
+      "source": 55, 
+      "target": 145, 
+      "value": 4
+    }, 
+    {
+      "source": 55, 
+      "target": 153, 
+      "value": 4
+    }, 
+    {
+      "source": 55, 
+      "target": 154, 
+      "value": 5
+    }, 
+    {
+      "source": 55, 
+      "target": 155, 
+      "value": 4
+    }, 
+    {
+      "source": 55, 
+      "target": 95, 
+      "value": 4
+    }, 
+    {
+      "source": 56, 
+      "target": 120, 
+      "value": 4
+    }, 
+    {
+      "source": 56, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 57, 
+      "target": 141, 
+      "value": 4
+    }, 
+    {
+      "source": 58, 
+      "target": 95, 
+      "value": 4
+    }, 
+    {
+      "source": 59, 
+      "target": 157, 
+      "value": 4
+    }, 
+    {
+      "source": 60, 
+      "target": 134, 
+      "value": 4
+    }, 
+    {
+      "source": 61, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 62, 
+      "target": 183, 
+      "value": 4
+    }, 
+    {
+      "source": 63, 
+      "target": 192, 
+      "value": 5
+    }, 
+    {
+      "source": 63, 
+      "target": 150, 
+      "value": 5
+    }, 
+    {
+      "source": 63, 
+      "target": 215, 
+      "value": 4
+    }, 
+    {
+      "source": 63, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 63, 
+      "target": 220, 
+      "value": 7
+    }, 
+    {
+      "source": 64, 
+      "target": 197, 
+      "value": 4
+    }, 
+    {
+      "source": 64, 
+      "target": 204, 
+      "value": 9
+    }, 
+    {
+      "source": 64, 
+      "target": 180, 
+      "value": 4
+    }, 
+    {
+      "source": 64, 
+      "target": 150, 
+      "value": 4
+    }, 
+    {
+      "source": 64, 
+      "target": 219, 
+      "value": 5
+    }, 
+    {
+      "source": 64, 
+      "target": 95, 
+      "value": 4
+    }, 
+    {
+      "source": 65, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 65, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 65, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 65, 
+      "target": 156, 
+      "value": 4
+    }, 
+    {
+      "source": 66, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 66, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 67, 
+      "target": 97, 
+      "value": 4
+    }, 
+    {
+      "source": 67, 
+      "target": 177, 
+      "value": 4
+    }, 
+    {
+      "source": 67, 
+      "target": 148, 
+      "value": 4
+    }, 
+    {
+      "source": 67, 
+      "target": 217, 
+      "value": 4
+    }, 
+    {
+      "source": 67, 
+      "target": 155, 
+      "value": 4
+    }, 
+    {
+      "source": 67, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 69, 
+      "target": 192, 
+      "value": 6
+    }, 
+    {
+      "source": 69, 
+      "target": 169, 
+      "value": 4
+    }, 
+    {
+      "source": 69, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 69, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 69, 
+      "target": 150, 
+      "value": 5
+    }, 
+    {
+      "source": 70, 
+      "target": 177, 
+      "value": 5
+    }, 
+    {
+      "source": 70, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 70, 
+      "target": 190, 
+      "value": 5
+    }, 
+    {
+      "source": 70, 
+      "target": 207, 
+      "value": 4
+    }, 
+    {
+      "source": 71, 
+      "target": 220, 
+      "value": 8
+    }, 
+    {
+      "source": 72, 
+      "target": 127, 
+      "value": 4
+    }, 
+    {
+      "source": 73, 
+      "target": 207, 
+      "value": 4
+    }, 
+    {
+      "source": 74, 
+      "target": 207, 
+      "value": 4
+    }, 
+    {
+      "source": 75, 
+      "target": 160, 
+      "value": 7
+    }, 
+    {
+      "source": 75, 
+      "target": 161, 
+      "value": 4
+    }, 
+    {
+      "source": 75, 
+      "target": 140, 
+      "value": 4
+    }, 
+    {
+      "source": 75, 
+      "target": 183, 
+      "value": 7
+    }, 
+    {
+      "source": 75, 
+      "target": 158, 
+      "value": 4
+    }, 
+    {
+      "source": 75, 
+      "target": 95, 
+      "value": 24
+    }, 
+    {
+      "source": 76, 
+      "target": 82, 
+      "value": 4
+    }, 
+    {
+      "source": 76, 
+      "target": 205, 
+      "value": 4
+    }, 
+    {
+      "source": 77, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 78, 
+      "target": 90, 
+      "value": 4
+    }, 
+    {
+      "source": 78, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 78, 
+      "target": 156, 
+      "value": 7
+    }, 
+    {
+      "source": 80, 
+      "target": 161, 
+      "value": 4
+    }, 
+    {
+      "source": 80, 
+      "target": 183, 
+      "value": 4
+    }, 
+    {
+      "source": 81, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 82, 
+      "target": 205, 
+      "value": 5
+    }, 
+    {
+      "source": 82, 
+      "target": 116, 
+      "value": 4
+    }, 
+    {
+      "source": 82, 
+      "target": 183, 
+      "value": 8
+    }, 
+    {
+      "source": 82, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 83, 
+      "target": 95, 
+      "value": 4
+    }, 
+    {
+      "source": 83, 
+      "target": 183, 
+      "value": 4
+    }, 
+    {
+      "source": 84, 
+      "target": 192, 
+      "value": 5
+    }, 
+    {
+      "source": 84, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 84, 
+      "target": 150, 
+      "value": 4
+    }, 
+    {
+      "source": 85, 
+      "target": 112, 
+      "value": 4
+    }, 
+    {
+      "source": 85, 
+      "target": 220, 
+      "value": 7
+    }, 
+    {
+      "source": 85, 
+      "target": 108, 
+      "value": 4
+    }, 
+    {
+      "source": 86, 
+      "target": 92, 
+      "value": 6
+    }, 
+    {
+      "source": 87, 
+      "target": 117, 
+      "value": 4
+    }, 
+    {
+      "source": 88, 
+      "target": 156, 
+      "value": 5
+    }, 
+    {
+      "source": 88, 
+      "target": 150, 
+      "value": 5
+    }, 
+    {
+      "source": 88, 
+      "target": 119, 
+      "value": 5
+    }, 
+    {
+      "source": 88, 
+      "target": 123, 
+      "value": 5
+    }, 
+    {
+      "source": 88, 
+      "target": 188, 
+      "value": 7
+    }, 
+    {
+      "source": 90, 
+      "target": 152, 
+      "value": 4
+    }, 
+    {
+      "source": 90, 
+      "target": 191, 
+      "value": 4
+    }, 
+    {
+      "source": 91, 
+      "target": 217, 
+      "value": 4
+    }, 
+    {
+      "source": 91, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 92, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 93, 
+      "target": 118, 
+      "value": 4
+    }, 
+    {
+      "source": 94, 
+      "target": 185, 
+      "value": 4
+    }, 
+    {
+      "source": 94, 
+      "target": 98, 
+      "value": 4
+    }, 
+    {
+      "source": 94, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 95, 
+      "target": 140, 
+      "value": 6
+    }, 
+    {
+      "source": 95, 
+      "target": 157, 
+      "value": 6
+    }, 
+    {
+      "source": 95, 
+      "target": 158, 
+      "value": 4
+    }, 
+    {
+      "source": 95, 
+      "target": 159, 
+      "value": 5
+    }, 
+    {
+      "source": 95, 
+      "target": 160, 
+      "value": 8
+    }, 
+    {
+      "source": 95, 
+      "target": 161, 
+      "value": 6
+    }, 
+    {
+      "source": 95, 
+      "target": 164, 
+      "value": 4
+    }, 
+    {
+      "source": 95, 
+      "target": 167, 
+      "value": 4
+    }, 
+    {
+      "source": 95, 
+      "target": 177, 
+      "value": 4
+    }, 
+    {
+      "source": 95, 
+      "target": 179, 
+      "value": 6
+    }, 
+    {
+      "source": 95, 
+      "target": 205, 
+      "value": 5
+    }, 
+    {
+      "source": 95, 
+      "target": 219, 
+      "value": 4
+    }, 
+    {
+      "source": 95, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 95, 
+      "target": 222, 
+      "value": 4
+    }, 
+    {
+      "source": 95, 
+      "target": 103, 
+      "value": 8
+    }, 
+    {
+      "source": 95, 
+      "target": 183, 
+      "value": 20
+    }, 
+    {
+      "source": 96, 
+      "target": 137, 
+      "value": 4
+    }, 
+    {
+      "source": 99, 
+      "target": 141, 
+      "value": 4
+    }, 
+    {
+      "source": 100, 
+      "target": 119, 
+      "value": 4
+    }, 
+    {
+      "source": 102, 
+      "target": 156, 
+      "value": 5
+    }, 
+    {
+      "source": 103, 
+      "target": 183, 
+      "value": 4
+    }, 
+    {
+      "source": 104, 
+      "target": 207, 
+      "value": 4
+    }, 
+    {
+      "source": 105, 
+      "target": 155, 
+      "value": 5
+    }, 
+    {
+      "source": 106, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 107, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 108, 
+      "target": 123, 
+      "value": 4
+    }, 
+    {
+      "source": 108, 
+      "target": 192, 
+      "value": 5
+    }, 
+    {
+      "source": 108, 
+      "target": 220, 
+      "value": 7
+    }, 
+    {
+      "source": 109, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 110, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 111, 
+      "target": 123, 
+      "value": 5
+    }, 
+    {
+      "source": 112, 
+      "target": 220, 
+      "value": 8
+    }, 
+    {
+      "source": 112, 
+      "target": 150, 
+      "value": 6
+    }, 
+    {
+      "source": 113, 
+      "target": 152, 
+      "value": 7
+    }, 
+    {
+      "source": 113, 
+      "target": 210, 
+      "value": 4
+    }, 
+    {
+      "source": 115, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 119, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 119, 
+      "target": 150, 
+      "value": 12
+    }, 
+    {
+      "source": 119, 
+      "target": 123, 
+      "value": 7
+    }, 
+    {
+      "source": 119, 
+      "target": 188, 
+      "value": 4
+    }, 
+    {
+      "source": 120, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 121, 
+      "target": 188, 
+      "value": 4
+    }, 
+    {
+      "source": 122, 
+      "target": 209, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 137, 
+      "value": 6
+    }, 
+    {
+      "source": 123, 
+      "target": 148, 
+      "value": 5
+    }, 
+    {
+      "source": 123, 
+      "target": 150, 
+      "value": 9
+    }, 
+    {
+      "source": 123, 
+      "target": 154, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 155, 
+      "value": 9
+    }, 
+    {
+      "source": 123, 
+      "target": 156, 
+      "value": 10
+    }, 
+    {
+      "source": 123, 
+      "target": 168, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 220, 
+      "value": 10
+    }, 
+    {
+      "source": 123, 
+      "target": 170, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 174, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 182, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 185, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 188, 
+      "value": 8
+    }, 
+    {
+      "source": 123, 
+      "target": 189, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 192, 
+      "value": 7
+    }, 
+    {
+      "source": 123, 
+      "target": 218, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 191, 
+      "value": 4
+    }, 
+    {
+      "source": 123, 
+      "target": 126, 
+      "value": 5
+    }, 
+    {
+      "source": 124, 
+      "target": 146, 
+      "value": 7
+    }, 
+    {
+      "source": 125, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 125, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 128, 
+      "target": 158, 
+      "value": 4
+    }, 
+    {
+      "source": 129, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 131, 
+      "target": 183, 
+      "value": 5
+    }, 
+    {
+      "source": 132, 
+      "target": 154, 
+      "value": 5
+    }, 
+    {
+      "source": 132, 
+      "target": 203, 
+      "value": 4
+    }, 
+    {
+      "source": 132, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 132, 
+      "target": 189, 
+      "value": 4
+    }, 
+    {
+      "source": 135, 
+      "target": 192, 
+      "value": 7
+    }, 
+    {
+      "source": 135, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 136, 
+      "target": 155, 
+      "value": 4
+    }, 
+    {
+      "source": 137, 
+      "target": 192, 
+      "value": 5
+    }, 
+    {
+      "source": 137, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 138, 
+      "target": 192, 
+      "value": 5
+    }, 
+    {
+      "source": 140, 
+      "target": 183, 
+      "value": 4
+    }, 
+    {
+      "source": 141, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 141, 
+      "target": 220, 
+      "value": 7
+    }, 
+    {
+      "source": 142, 
+      "target": 217, 
+      "value": 5
+    }, 
+    {
+      "source": 144, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 145, 
+      "target": 205, 
+      "value": 4
+    }, 
+    {
+      "source": 145, 
+      "target": 213, 
+      "value": 4
+    }, 
+    {
+      "source": 148, 
+      "target": 192, 
+      "value": 8
+    }, 
+    {
+      "source": 148, 
+      "target": 149, 
+      "value": 6
+    }, 
+    {
+      "source": 148, 
+      "target": 150, 
+      "value": 7
+    }, 
+    {
+      "source": 148, 
+      "target": 184, 
+      "value": 4
+    }, 
+    {
+      "source": 148, 
+      "target": 220, 
+      "value": 10
+    }, 
+    {
+      "source": 149, 
+      "target": 192, 
+      "value": 5
+    }, 
+    {
+      "source": 149, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 149, 
+      "target": 150, 
+      "value": 4
+    }, 
+    {
+      "source": 150, 
+      "target": 192, 
+      "value": 10
+    }, 
+    {
+      "source": 150, 
+      "target": 175, 
+      "value": 4
+    }, 
+    {
+      "source": 150, 
+      "target": 190, 
+      "value": 4
+    }, 
+    {
+      "source": 150, 
+      "target": 198, 
+      "value": 4
+    }, 
+    {
+      "source": 150, 
+      "target": 204, 
+      "value": 4
+    }, 
+    {
+      "source": 150, 
+      "target": 211, 
+      "value": 4
+    }, 
+    {
+      "source": 150, 
+      "target": 220, 
+      "value": 19
+    }, 
+    {
+      "source": 151, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 152, 
+      "target": 191, 
+      "value": 4
+    }, 
+    {
+      "source": 152, 
+      "target": 210, 
+      "value": 4
+    }, 
+    {
+      "source": 155, 
+      "target": 188, 
+      "value": 5
+    }, 
+    {
+      "source": 155, 
+      "target": 192, 
+      "value": 5
+    }, 
+    {
+      "source": 155, 
+      "target": 196, 
+      "value": 4
+    }, 
+    {
+      "source": 155, 
+      "target": 203, 
+      "value": 5
+    }, 
+    {
+      "source": 155, 
+      "target": 156, 
+      "value": 4
+    }, 
+    {
+      "source": 155, 
+      "target": 211, 
+      "value": 4
+    }, 
+    {
+      "source": 155, 
+      "target": 185, 
+      "value": 6
+    }, 
+    {
+      "source": 155, 
+      "target": 220, 
+      "value": 10
+    }, 
+    {
+      "source": 155, 
+      "target": 221, 
+      "value": 6
+    }, 
+    {
+      "source": 155, 
+      "target": 190, 
+      "value": 9
+    }, 
+    {
+      "source": 156, 
+      "target": 196, 
+      "value": 4
+    }, 
+    {
+      "source": 156, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 156, 
+      "target": 182, 
+      "value": 4
+    }, 
+    {
+      "source": 156, 
+      "target": 185, 
+      "value": 4
+    }, 
+    {
+      "source": 156, 
+      "target": 188, 
+      "value": 7
+    }, 
+    {
+      "source": 159, 
+      "target": 183, 
+      "value": 4
+    }, 
+    {
+      "source": 160, 
+      "target": 161, 
+      "value": 5
+    }, 
+    {
+      "source": 160, 
+      "target": 183, 
+      "value": 5
+    }, 
+    {
+      "source": 161, 
+      "target": 187, 
+      "value": 4
+    }, 
+    {
+      "source": 162, 
+      "target": 213, 
+      "value": 5
+    }, 
+    {
+      "source": 165, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 165, 
+      "target": 200, 
+      "value": 7
+    }, 
+    {
+      "source": 165, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 166, 
+      "target": 215, 
+      "value": 4
+    }, 
+    {
+      "source": 168, 
+      "target": 193, 
+      "value": 4
+    }, 
+    {
+      "source": 169, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 170, 
+      "target": 218, 
+      "value": 4
+    }, 
+    {
+      "source": 171, 
+      "target": 192, 
+      "value": 4
+    }, 
+    {
+      "source": 172, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 176, 
+      "target": 208, 
+      "value": 4
+    }, 
+    {
+      "source": 177, 
+      "target": 207, 
+      "value": 4
+    }, 
+    {
+      "source": 177, 
+      "target": 183, 
+      "value": 4
+    }, 
+    {
+      "source": 177, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 178, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 179, 
+      "target": 183, 
+      "value": 5
+    }, 
+    {
+      "source": 181, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 183, 
+      "target": 205, 
+      "value": 6
+    }, 
+    {
+      "source": 183, 
+      "target": 219, 
+      "value": 4
+    }, 
+    {
+      "source": 183, 
+      "target": 222, 
+      "value": 5
+    }, 
+    {
+      "source": 183, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 183, 
+      "target": 186, 
+      "value": 5
+    }, 
+    {
+      "source": 184, 
+      "target": 185, 
+      "value": 4
+    }, 
+    {
+      "source": 184, 
+      "target": 212, 
+      "value": 4
+    }, 
+    {
+      "source": 185, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 189, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 190, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 190, 
+      "target": 221, 
+      "value": 4
+    }, 
+    {
+      "source": 192, 
+      "target": 196, 
+      "value": 4
+    }, 
+    {
+      "source": 192, 
+      "target": 203, 
+      "value": 4
+    }, 
+    {
+      "source": 192, 
+      "target": 206, 
+      "value": 4
+    }, 
+    {
+      "source": 192, 
+      "target": 214, 
+      "value": 5
+    }, 
+    {
+      "source": 192, 
+      "target": 215, 
+      "value": 8
+    }, 
+    {
+      "source": 192, 
+      "target": 220, 
+      "value": 25
+    }, 
+    {
+      "source": 193, 
+      "target": 194, 
+      "value": 4
+    }, 
+    {
+      "source": 195, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 197, 
+      "target": 204, 
+      "value": 4
+    }, 
+    {
+      "source": 200, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 201, 
+      "target": 204, 
+      "value": 4
+    }, 
+    {
+      "source": 203, 
+      "target": 220, 
+      "value": 8
+    }, 
+    {
+      "source": 203, 
+      "target": 221, 
+      "value": 4
+    }, 
+    {
+      "source": 204, 
+      "target": 219, 
+      "value": 7
+    }, 
+    {
+      "source": 204, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 207, 
+      "target": 220, 
+      "value": 6
+    }, 
+    {
+      "source": 211, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 215, 
+      "target": 220, 
+      "value": 10
+    }, 
+    {
+      "source": 216, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 217, 
+      "target": 220, 
+      "value": 5
+    }, 
+    {
+      "source": 218, 
+      "target": 220, 
+      "value": 4
+    }, 
+    {
+      "source": 220, 
+      "target": 221, 
+      "value": 5
+    }
+  ]
+}]

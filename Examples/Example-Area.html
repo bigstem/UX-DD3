@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+	<link href="../css/bootstrap.css" rel="stylesheet" />	
+	<link href="../css/bootstrap-theme.css" rel="stylesheet" />
+	<link href="../css/font-awesome.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-table.min.css" rel="stylesheet" />
+	<link href="../css/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+	<link href="../css/style.css"  rel="stylesheet" />
+<style>
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #ddd;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+	stroke : #000;
+}
+
+
+/*
+.x_grid, .y_grid {
+	stroke: gray;
+	stroke-width: 1px;
+}*/
+
+
+</style>
+<body>
+<div class="container">
+	<div class="panel panel-primary">
+		<div class="panel-heading">
+			<h4 class="panel-title center">DD3 Area Chart</h4>
+		</div>
+		<div class="panel-body center">
+			<div class="row">
+				<div class="col-md-12">
+					<div id="areas"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/d3.v3.min.js"></script>
+<script src="../js/d3.tip.v0.6.3.js"></script>
+<script src="../plugins/dd3.js"></script>
+<script src="../module/example-area-data.js"></script>
+
+</body>
+</html>
